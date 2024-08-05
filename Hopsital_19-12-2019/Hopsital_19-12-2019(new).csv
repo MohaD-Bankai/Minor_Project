@@ -1,0 +1,833 @@
+Age,Gender,Diagnosis,Name of Drug,Dosage (gram),Route,Frequency,Duration (days),Indication
+90.0,Female,"sick sinus syndrome, ccf, poor drug adherence, ihd",ceftriaxone,1.0,IV,BD,4.0,dyspnoea
+90.0,Female,"sick sinus syndrome, ccf, poor drug adherence, ihd",Cefixime,0.2,Oral,BD,3.0,dyspnoea
+87.0,Female,"pad(lt u.l), be amputation,/post op, akt",ceftriaxone,1.0,IV,BD,1.0,pad(lt u.l)
+87.0,Female,"pad(lt u.l), be amputation,/post op, akt",ceftriaxone,1.0,IV,BD,1.0,post op
+87.0,Female,"pad(lt u.l), be amputation,/post op, akt",ceftriaxone,1.0,IV,BD,1.0,be amputation
+87.0,Female,"pad(lt u.l), be amputation,/post op, akt",ceftriaxone,1.0,IV,BD,1.0,akt
+86.0,Female,"right sided hemiparaesis, hypertension, dm, aspiration pneumonia",co-amoxiclav,1.2,IV,TDS,1.0,aspiration pneumonia
+86.0,Female,"haemoptysis, TB , degenerative mr",co-amoxiclav,1.2,IV,TDS,3.0,haemoptysis
+86.0,Female,"haemoptysis, TB , degenerative mr",co-amoxiclav,1.2,IV,TDS,3.0,degenerative mr
+86.0,Female,"right sided hemiparaesis, hypertension, dm, aspiration pneumonia",metronidazole,0.75,IV,TDS,1.0,aspiration pneumonia
+86.0,Female,"haemoptysis, TB , degenerative mr",co-amoxiclav,1.2,IV,TDS,3.0,tb
+85.0,Female,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,IV,BD,7.0,hypertension
+85.0,Female,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,IV,BD,7.0,ckd
+85.0,Female,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,IV,BD,7.0,hypertension
+85.0,Female,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,IV,BD,7.0,ccf
+85.0,Female,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,IV,BD,7.0,icm
+85.0,Female,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,IV,BD,7.0,ccf
+85.0,Female,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,IV,BD,7.0,ckd
+85.0,Female,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,IV,BD,7.0,ida
+85.0,Female,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,IV,BD,7.0,icm
+85.0,Female,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,IV,BD,7.0,ida
+82.0,Male,"chest infection, copd, icm(ef) 29%, type 2 dm",Cefixime,0.2,Oral,BD,5.0,chest infection
+82.0,Male,"type-2 dm, ihd, col, copd, ht",cefepime,1.0,IV,BD,5.0,abd distension with leg swelling
+82.0,Male,"type-2dm, ihd, col, copd, ht",ofloxacin,0.4,IV,BD,3.0,abd distension with leg swelling
+82.0,Male,"type-2dm, ihd, col, copd, ht",ofloxacin,0.4,IV,BD,3.0,ht
+82.0,Male,"chest infection, copd, icm(ef) 29%, type 2 dm",ceftazidime,1.0,IV,TDS,1.0,chest infection
+82.0,Male,"type-2 dm, ihd, col, copd, ht",azithromycin,0.5,Oral,OD,3.0,abd distension with leg swelling
+82.0,Male,"type-2 dm, ihd, col, copd, ht",ceftazidime,1.0,IV,TDS,3.0,abd distension with leg swelling
+82.0,Male,"chest infection, copd, icm(ef) 29%, type 2 dm",ceftazidime,1.0,IV,BD,1.0,chest infection
+82.0,Sex,Diagnosis,,,Route,Freq,,Indication
+82.0,Male,"type-2 dm, ihd, col, copd, ht",ceftazidime,1.0,IV,TDS,3.0,ht
+82.0,Male,"type-2 dm, ihd, col, copd, ht",azithromycin,0.5,Oral,OD,3.0,ht
+82.0,Male,"type-2 dm, ihd, col, copd, ht",cefepime,1.0,IV,BD,5.0,ht
+82.0,Male,"chronic cardiac failure ppt by poor drug compliance, degenerative valve disease",co-amoxiclav,0.625,Oral,TDS,5.0,chronic cardiac failure
+82.0,Male,"type-2 dm, ihd, col, copd, ht",cefepime,1.0,IV,BD,5.0,type 2 dm
+82.0,Male,"type-2dm, ihd, col, copd, ht",ofloxacin,0.4,IV,BD,3.0,type 2 dm
+82.0,Male,"type-2 dm, ihd, col, copd, ht",azithromycin,0.5,Oral,OD,3.0,type 2 dm
+82.0,Male,"type-2 dm, ihd, col, copd, ht",ceftazidime,1.0,IV,TDS,3.0,type 2 dm
+80.0,Male,acute exacerbation of copd,co-amoxiclav,1.2,IV,TDS,1.0,chest infection
+78.0,Male,"lung consodilation(rlz) , COPD",co-amoxiclav,1.2,IV,TDS,1.0,lung consodilation(rlz)
+78.0,Female,"type 2 dm, hypoglycaemia, ihr",Cefixime,0.2,Oral,BD,5.0,ihd
+78.0,Female,"type 2 dm, hypoglycaemia, ihr",Cefixime,0.2,Oral,BD,5.0,hypoglycaemia
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",Clarithromycin,0.5,Oral,BD,1.0,ckd
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",co-amoxiclav,1.2,IV,TDS,1.0,ckd
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",ceftriaxone,1.0,IV,BD,1.0,ckd
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",co-amoxiclav,0.625,Oral,TDS,1.0,ckd
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",co-amoxiclav,0.625,Oral,TDS,1.0,chest infection
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",Clarithromycin,0.5,Oral,BD,1.0,chest infection
+78.0,Male,"copd, chest infection, cardiogenic shock",co-amoxiclav,1.2,IV,TDS,1.0,chest infection
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",co-amoxiclav,1.2,IV,TDS,1.0,chest infection
+78.0,Male,"copd, chest infection, cardiogenic shock",co-amoxiclav,1.2,IV,TDS,1.0,copd
+78.0,Male,"lung consodilation(rlz) , COPD",co-amoxiclav,1.2,IV,TDS,1.0,copd
+78.0,Female,"anteroseptal mi, klebsiella pneumonia, hypertension, type 2 dm, old stroke",co-amoxiclav,1.2,IV,TDS,8.0,anteroseptal mi
+78.0,Male,"copd, chest infection, cardiogenic shock",co-amoxiclav,1.2,IV,TDS,1.0,cardiogenic shock
+78.0,Female,"anteroseptal mi, klebsiella pneumonia, hypertension, type 2 dm, old stroke",co-amoxiclav,1.2,IV,TDS,8.0,klebsiella pneumonia
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",ceftriaxone,1.0,IV,BD,1.0,chest infection
+78.0,Male,"lung condilation(rlz), CPOD",Clarithromycin,0.5,Oral,BD,10.0,copd
+78.0,Female,"anteroseptal mi, klebsiella pneumonia, hypertension, type 2 dm, old stroke",co-amoxiclav,1.2,IV,TDS,8.0,hypertension
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",co-amoxiclav,0.625,Oral,TDS,1.0,multiple myeloma
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",ceftriaxone,1.0,IV,BD,1.0,multiple myeloma
+78.0,Female,"anteroseptal mi, klebsiella pneumonia, hypertension, type 2 dm, old stroke",co-amoxiclav,1.2,IV,TDS,8.0,old stroke
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",co-amoxiclav,1.2,IV,TDS,1.0,severe anaemia
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",co-amoxiclav,0.625,Oral,TDS,1.0,severe anaemia
+78.0,Male,"lung condilation(rlz), CPOD",Clarithromycin,0.5,Oral,BD,10.0,lung consodilation(rlz)
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",co-amoxiclav,1.2,IV,TDS,1.0,multiple myeloma
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",Clarithromycin,0.5,Oral,BD,1.0,multiple myeloma
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",ceftriaxone,1.0,IV,BD,1.0,severe anaemia
+78.0,Male,"severe anaemia,  multiple myeloma,  CKD,  chest infection",Clarithromycin,0.5,Oral,BD,1.0,severe anaemia
+78.0,Female,"anteroseptal mi, klebsiella pneumonia, hypertension, type 2 dm, old stroke",co-amoxiclav,1.2,IV,TDS,8.0,type 2 dm
+78.0,Female,"type 2 dm, hypoglycaemia, ihr",Cefixime,0.2,Oral,BD,5.0,type 2 dm
+77.0,Female,"cardioembolic, stroke",metronidazole,0.75,IV,TDS,1.0,severe ms
+77.0,Female,"cardioembolic, stroke",pen v,0.25,Oral,BD,1.0,severe ms
+77.0,Female,"cardioembolic, stroke",ceftriaxone,1.0,IV,BD,1.0,severe ms
+77.0,Female,"cardioembolic, stroke",ceftriaxone,1.0,IV,BD,1.0,af
+77.0,Female,"copd, chest infection, hypertension, newly dx dm, t2 resp:failure(resolved)",co-amoxiclav,0.625,Oral,TDS,10.0,chest infection
+77.0,Female,"copd, chest infection, hypertension, newly dx dm, t2 resp:failure(resolved)",Clarithromycin,0.5,Oral,BD,10.0,chest infection
+77.0,Female,"cardioembolic, stroke",metronidazole,0.75,IV,TDS,1.0,af
+77.0,Female,"cardioembolic, stroke",pen v,0.25,Oral,BD,1.0,af
+77.0,Female,"copd, chest infection, hypertension, newly dx dm, t2 resp:failure(resolved)",co-amoxiclav,1.2,IV,TDS,1.0,chest infection
+77.0,Female,"copd, chest infection, hypertension, newly dx dm, t2 resp:failure(resolved)",ceftriaxone,1.0,IV,TDS,1.0,chest infection
+76.0,Male,"chest infection, cardiogenic shock",ceftriaxone,1.0,IV,OD,1.0,cardiogenic shock
+76.0,Female,"ccf,chest infection, af ē rvr",cefepime,1.0,IV,BD,1.0,chest infection
+76.0,Female,"acute pulmonary edema, left sided hemiparesis, aortic dissection",co-amoxiclav,1.2,IV,TDS,1.0,acute pulmonary edema
+76.0,Female,"acute pulmonary edema, left sided hemiparesis, aortic dissection",co-amoxiclav,1.2,IV,TDS,1.0,left sided hemiparesis
+76.0,Female,"acute pulmonary edema, left sided hemiparesis, aortic dissection",co-amoxiclav,1.2,IV,TDS,1.0,aortic dissection
+76.0,Female,"acute pulmonary edema, left sided hemiparesis, aortic dissection",metronidazole,0.75,IV,TDS,1.0,aortic dissection
+76.0,Male,"chest infection, cardiogenic shock",ceftriaxone,1.0,IV,OD,1.0,chest infection
+76.0,Female,"ccf,chest infection, af ē rvr",Levofloxacin,1.0,IV,BD,1.0,chest infection
+76.0,Female,"acute pulmonary edema, left sided hemiparesis, aortic dissection",metronidazole,0.75,IV,TDS,1.0,left sided hemiparesis
+76.0,Female,"acute pulmonary edema, left sided hemiparesis, aortic dissection",metronidazole,0.75,IV,TDS,1.0,acute pulmonary edema
+76.0,Male,"uti,  operated spinal cord,  hematoma and paraplegia",Levofloxacin,0.5,Oral,OD,5.0,uti
+76.0,Female,"ccf,chest infection, af ē rvr",co-amoxiclav,1.2,IV,TDS,1.0,chest infection
+76.0,Female,"ccf,chest infection, af ē rvr",Clarithromycin,0.5,Oral,BD,1.0,chest infection
+75.0,Female,acute on chronic heart failure,co-amoxiclav,1.2,IV,TDS,5.0,chest infection
+75.0,Male,"ckd, generalized edema, ihd, hypertension, chest infection (right upper zone)",ceftriaxone,1.0,IV,OD,5.0,chest infection
+74.0,Male,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",metronidazole,0.75,IV,TDS,1.0,acute cerebral infarct
+74.0,Male,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",metronidazole,0.75,IV,TDS,1.0,left sided hemiparesis
+74.0,Male,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",ceftriaxone,1.0,IV,BD,1.0,left sided hemiparesis
+74.0,Male,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",metronidazole,0.75,IV,TDS,1.0,hypertension
+74.0,Male,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",metronidazole,0.75,IV,TDS,1.0,ihd
+74.0,Male,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",ceftriaxone,1.0,IV,BD,1.0,ihd
+74.0,Female,"copd, chest infection",ceftazidime,1.0,IV,TDS,1.0,copd
+74.0,Male,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",ceftriaxone,1.0,IV,BD,1.0,hypertension
+74.0,Female,"copd, chest infection",ceftazidime,1.0,IV,TDS,1.0,chest infection
+74.0,Female,"copd,  type 2DM,  CKD",ceftazidime,1.0,IV,OD,1.0,chest infection
+74.0,Male,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",ceftriaxone,1.0,IV,BD,1.0,acute cerebral infarct
+73.0,Female,"svt,  chest infection,  old Koch'lung,  hypokalemia",co-amoxiclav,1.2,IV,TDS,4.0,hypokalemia
+73.0,Female,"svt,  chest infection,  old Koch'lung,  hypokalemia",co-amoxiclav,1.2,IV,TDS,4.0,svt
+73.0,Male,"copd, chest infection, ccf",co-amoxiclav,1.2,IV,TDS,4.0,chest infection
+73.0,Female,"svt,  chest infection,  old Koch'lung,  hypokalemia",co-amoxiclav,1.2,IV,TDS,4.0,kochs'lung
+73.0,Female,"svt,  chest infection,  old Koch'lung,  hypokalemia",co-amoxiclav,1.2,IV,TDS,4.0,chest infection
+73.0,Female,"chest infection,  copd",Clarithromycin,0.5,Oral,BD,5.0,prevention of infection
+73.0,Female,"chest infection,  copd",co-amoxiclav,1.2,IV,TDS,1.0,prevention of infection
+72.0,Female,acute gastritis vomitting ē hk+,co-amoxiclav,0.625,Oral,TDS,7.0,acute gastritis vomitting ē hk+
+72.0,Female,"copd ppt chest infection, koch's lung",ceftriaxone,1.0,IV,TDS,5.0,"copd, chest infection"
+72.0,Female,"copd ppt chest infection, koch's lung",ceftriaxone,1.0,IV,TDS,5.0,koch's lung
+72.0,Female,"copd ppt chest infection, old Koch,s lung",co-amoxiclav,1.2,IV,TDS,1.0,koch's lung
+72.0,Female,"copd ppt chest infection, old Koch,s lung",co-amoxiclav,1.2,IV,TDS,1.0,"copd, chest infection"
+72.0,Male,"sputum(+) tb on anti-tb, prolapsed pile, electrolyte imbalance",cifran,0.5,Oral,BD,3.0,sputum(+) koch's lung on anti- tb
+71.0,Female,"copd, chest infection",co-amoxiclav,1.2,IV,TDS,4.0,chest infection
+71.0,Female,"cap, copd, drug inducwd cushing syndrome",co-amoxiclav,1.2,IV,TDS,5.0,cap
+71.0,Female,"cap, copd, drug inducwd cushing syndrome",ceftriaxone,2.0,IV,BD,2.0,cap
+71.0,Male,"rvi stage 2, polyerythremia",septrin,960.0,Oral,OD,1.0,polyerythremia
+71.0,Female,"cap, copd, drug inducwd cushing syndrome",Clarithromycin,0.5,Oral,BD,5.0,cap
+71.0,Female,aspiration pneumonia,metronidazole,0.75,IV,TDS,1.0,aspiration pneumonia
+71.0,Female,aspiration pneumonia,ceftriaxone,1.0,IV,BD,2.0,aspiration pneumonia
+71.0,Female,"dka, type 2 dm, ihd",ceftriaxone,1.0,IV,BD,1.0,prevention of infection
+71.0,Male,"rvi stage 2, polyerythremia",septrin,960.0,Oral,OD,1.0,rvi
+70.0,Male,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",septrin,0.48,Oral,OD,1.0,septic shock
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftazidime,2.0,IV,TDS,2.0,anaemia
+70.0,Male,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",septrin,0.48,Oral,OD,1.0,herpes encephalitis
+70.0,Male,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",septrin,0.48,Oral,OD,1.0,cerebral infarct
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",amikacin,0.5,IV,BD,8.0,anaemia
+70.0,Male,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",meropenem,0.5,IV,BD,2.0,cerebral infarct
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftazidime,2.0,IV,TDS,2.0,ca buffalo mucosa
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftazidime,2.0,IV,TDS,2.0,type 2 dm
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",amikacin,0.5,IV,BD,8.0,fever
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftazidime,2.0,IV,TDS,2.0,fever
+70.0,Male,avi,ceftriaxone,2.0,IV,BD,7.0,fever
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftriaxone,1.0,IV,BD,2.0,neutropenia
+70.0,Male,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",septrin,0.48,Oral,OD,1.0,miliary tb
+70.0,Male,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",meropenem,0.5,IV,BD,2.0,miliary tb
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",amikacin,0.5,IV,BD,8.0,neutropenia
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftazidime,2.0,IV,TDS,2.0,neutropenia
+70.0,Male,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",meropenem,0.5,IV,BD,2.0,septic shock
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftriaxone,1.0,IV,BD,2.0,anaemia
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",amikacin,0.5,IV,BD,8.0,ca buffalo mucosa
+70.0,Male,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",meropenem,0.5,IV,BD,2.0,herpes encephalitis
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",amikacin,0.5,IV,BD,8.0,type 2 dm
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftriaxone,1.0,IV,BD,2.0,type 2 dm
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftriaxone,1.0,IV,BD,2.0,ca buffalo mucosa
+70.0,Male,avi,Levofloxacin,0.25,IV,OD,7.0,fever
+70.0,Male,avi,metronidazole,0.75,IV,TDS,7.0,fever
+70.0,Female,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftriaxone,1.0,IV,BD,2.0,fever
+69.0,Female,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",metronidazole,0.75,IV,TDS,5.0,deep vein thrombosis of left leg
+69.0,Female,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",metronidazole,0.75,IV,TDS,5.0,cap
+69.0,Female,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",cefepime,1.0,IV,BD,1.0,cap
+69.0,Female,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",metronidazole,0.75,IV,TDS,5.0,right cerebral infarct
+69.0,Female,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",cefepime,1.0,IV,BD,1.0,right cerebral infarct
+69.0,Female,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",cefepime,1.0,IV,BD,1.0,deep vein thrombosis of left leg
+69.0,Female,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",metronidazole,0.75,IV,TDS,5.0,gi bleeding
+69.0,Female,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",cefepime,1.0,IV,BD,1.0,gi bleeding
+68.0,Female,"ccf, chest infection, uncontrolled type 2 dm, ihd",ceftriaxone,1.0,IV,BD,3.0,chest infection
+68.0,Male,green snake bite,amoxicillin+flucloxacillin,0.25,Oral,TDS,5.0,snake bite
+68.0,Female,ihd,co-amoxiclav,1.2,IV,TDS,4.0,ihd
+68.0,Female,ihd,co-amoxiclav,1.2,IV,TDS,4.0,chest infection
+68.0,Female,ihd,Cefixime,0.2,Oral,BD,1.0,chest infection
+68.0,Female,ihd,Cefixime,0.2,Oral,BD,1.0,ihd
+67.0,Female,"dm, copd, koch's lung, cor pulmonale",ceftriaxone,1.0,IV,BD,3.0,copd
+67.0,Female,"consolidation, chest infection, aki",co-amoxiclav,1.2,IV,TDS,5.0,aki
+67.0,Female,"uti , mi,  dm,  ckd,  cuf, cff ppt by chest infection",ceftriaxone,1.0,IV,BD,7.0,uti
+67.0,Female,"uti , mi,  dm,  ckd,  cuf, cff ppt by chest infection",ceftriaxone,1.0,IV,BD,7.0,mi
+67.0,Female,"uti , mi,  dm,  ckd,  cuf, cff ppt by chest infection",ceftriaxone,1.0,IV,BD,7.0,chest infection
+67.0,Female,"consolidation, chest infection, aki",Clarithromycin,0.5,Oral,BD,10.0,chest infection
+67.0,Female,"consolidation, chest infection, aki",co-amoxiclav,1.2,IV,TDS,5.0,chest infection
+67.0,Male,"copd, cor pulmonale, ihd, koch’s lung",ceftazidime,1.0,IV,TDS,5.0,koch’s lung
+67.0,Female,"uti , mi,  dm,  ckd,  cuf, cff ppt by chest infection",ceftriaxone,1.0,IV,BD,7.0,type 2 dm
+67.0,Male,"copd, cor pulmonale, ihd, koch’s lung",ceftazidime,1.0,IV,TDS,5.0,copd
+67.0,Female,"consolidation, chest infection, aki",co-amoxiclav,1.2,IV,TDS,5.0,consolidation
+67.0,Female,"consolidation, chest infection, aki",Clarithromycin,0.5,Oral,BD,10.0,consolidation
+67.0,Female,"dm, copd, koch's lung, cor pulmonale",Cefixime,0.02,Oral,BD,5.0,copd
+67.0,Male,"copd, cor pulmonale, ihd, koch’s lung",ceftazidime,1.0,IV,TDS,5.0,cor pulmonale
+67.0,Female,"uti , mi,  dm,  ckd,  cuf, cff ppt by chest infection",ceftriaxone,1.0,IV,BD,7.0,chronic cardiac failure
+67.0,Male,"copd, cor pulmonale, ihd, koch’s lung",ceftazidime,1.0,IV,TDS,5.0,ihd
+67.0,Female,"uti , mi,  dm,  ckd,  cuf, cff ppt by chest infection",ceftriaxone,1.0,IV,BD,7.0,ckd
+67.0,Female,"consolidation, chest infection, aki",Clarithromycin,0.5,Oral,BD,10.0,aki
+67.0,Female,"uti , mi,  dm,  ckd,  cuf, cff ppt by chest infection",ceftriaxone,1.0,IV,BD,7.0,cuf
+66.0,Male,"alcoholic gastritis, early col, hypertension",Clarithromycin,0.5,Oral,BD,14.0,alcoholic gastritis
+66.0,Male,"alcoholic gastritis, col, ugi tract bleeding, hiv",ceftriaxone,1.0,IV,BD,4.0,hiv
+66.0,Male,"alcoholic gastritis, early col, hypertension",Clarithromycin,0.5,Oral,BD,14.0,hypertension
+66.0,Male,"alcoholic gastritis, col, ugi tract bleeding, hiv",ceftriaxone,1.0,IV,BD,4.0,ugi tract bleeding
+66.0,Male,"alcoholic gastritis, col, ugi tract bleeding, hiv",mirox,0.5,Oral,BD,3.0,hiv
+66.0,Male,"alcoholic gastritis, col, ugi tract bleeding, hiv",ceftriaxone,1.0,IV,BD,4.0,alcoholic gastritis
+66.0,Male,"alcoholic gastritis, col, ugi tract bleeding, hiv",mirox,0.5,Oral,BD,3.0,ugi tract bleeding
+66.0,Male,"alcoholic gastritis, col, ugi tract bleeding, hiv",ceftriaxone,1.0,IV,BD,4.0,col
+66.0,Male,"alcoholic gastritis, early col, hypertension",amoxicillin,0.5,Oral,BD,14.0,alcoholic gastritis
+66.0,Male,"alcoholic gastritis, col, ugi tract bleeding, hiv",mirox,0.5,Oral,BD,3.0,col
+66.0,Male,"alcoholic gastritis, col, ugi tract bleeding, hiv",mirox,0.5,Oral,BD,3.0,alcoholic gastritis
+66.0,Male,"alcoholic gastritis, early col, hypertension",amoxicillin,0.5,Oral,BD,14.0,hypertension
+66.0,Male,"alcoholic gastritis, early col, hypertension",amoxicillin,0.5,Oral,BD,14.0,col
+66.0,Male,"alcoholic gastritis, early col, hypertension",Clarithromycin,0.5,Oral,BD,14.0,col
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",Clarithromycin,0.5,Oral,BD,4.0,ccf
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,1.0,IV,TDS,1.0,chest infection
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,0.625,Oral,TDS,2.0,chest infection
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",ceftriaxone,1.0,IV,BD,2.0,chest infection
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",Clarithromycin,0.5,Oral,BD,4.0,chest infection
+65.0,Female,"type 2 respiratory failure, hypothyroid, pleural effusion, osa, hypotension",ceftriaxone,1.0,IV,BD,2.0,surgery
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,0.625,Oral,TDS,2.0,ccf
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,1.0,IV,TDS,1.0,ccf
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",ceftriaxone,1.0,IV,BD,2.0,ccf
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,0.625,Oral,TDS,2.0,copd
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,1.0,IV,TDS,1.0,copd
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",ceftriaxone,1.0,IV,BD,2.0,copd
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",Clarithromycin,0.5,Oral,BD,4.0,copd
+65.0,Male,"aspiration pneumonia, old stroke, cerebral infarct",Cefixime,0.02,Oral,BD,5.0,aspiration pneumonia
+65.0,Male,"aspiration pneumonia, old stroke, cerebral infarct",ceftriaxone,1.0,IV,BD,1.0,aspiration pneumonia
+65.0,Male,"aspiration pneumonia, old stroke, cerebral infarct",metronidazole,0.2,Oral,TDS,5.0,aspiration pneumonia
+65.0,Male,koch's lung,co-amoxiclav,0.625,Oral,TDS,5.0,koch's lung
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,1.0,IV,TDS,1.0,koch's lung
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,0.625,Oral,TDS,2.0,koch's lung
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",Clarithromycin,0.5,Oral,BD,4.0,koch's lung
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",ceftriaxone,1.0,IV,BD,2.0,koch's lung
+65.0,Male,"multiple myeloma, acute ge",cefoperazone,1.0,IV,BD,10.0,multiple myeloma
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,0.625,Oral,TDS,2.0,pre-diabetes
+65.0,Male,"multiple myeloma, acute ge",cefoperazone,1.0,IV,BD,10.0,chest infection
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",ceftriaxone,1.0,IV,BD,2.0,pre-diabetes
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,1.0,IV,TDS,1.0,pre-diabetes
+65.0,Male,"multiple myeloma, acute ge",Levofloxacin,0.5,IV,OD,10.0,multiple myeloma
+65.0,Male,"multiple myeloma, acute ge",Levofloxacin,0.5,Oral,OD,10.0,multiple myeloma
+65.0,Male,"multiple myeloma, acute ge",co-amoxiclav,0.6,IV,BD,2.0,multiple myeloma
+65.0,Male,"ccf, koch's lung, copd, chest infection, pre-diabetes",Clarithromycin,0.5,Oral,BD,4.0,pre-diabetes
+65.0,Male,"multiple myeloma, acute ge",Levofloxacin,0.5,IV,OD,10.0,chest infection
+65.0,Male,"multiple myeloma, acute ge",co-amoxiclav,0.6,IV,BD,2.0,chest infection
+65.0,Male,"multiple myeloma, acute ge",Levofloxacin,0.5,Oral,OD,10.0,chest infection
+64.0,Male,"hcv(+), col, koch’s lung",ceftriaxone,1.0,IV,BD,1.0,koch’s lung
+64.0,Female,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",gentamicin,0.8,IV,BD,6.0,uti
+64.0,Female,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",ceftriaxone,1.0,IV,BD,5.0,uti
+64.0,Male,"ccf precipated by chest infection,  ckd,  uti",cefepime,1.0,IV,BD,5.0,uti
+64.0,Male,"ccf precipated by chest infection, old anterior mi, ckd, uti",ceftriaxone,1.0,IV,BD,2.0,uti
+64.0,Female,"septic shock, complicated uti, dm, hypertension",cefepime,0.5,IV,OD,2.0,uti
+64.0,Female,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",ceftriaxone,1.0,IV,BD,5.0,type 2 dm
+64.0,Male,"hcv(+), col, koch’s lung",ceftriaxone,1.0,IV,BD,1.0,hcv
+64.0,Female,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",ceftriaxone,1.0,IV,BD,5.0,ihd
+64.0,Female,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",ceftriaxone,1.0,IV,BD,5.0,chest infection
+64.0,Male,"ccf precipated by chest infection, old anterior mi, ckd, uti",ceftriaxone,1.0,IV,BD,2.0,chest infection
+64.0,Female,"septic shock, complicated uti, dm, hypertension",cefepime,1.0,IV,BD,1.0,uti
+64.0,Male,"ccf precipated by chest infection,  ckd,  uti",cefepime,1.0,IV,BD,5.0,chest infection
+64.0,Female,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",gentamicin,0.8,IV,BD,6.0,ihd
+64.0,Female,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",gentamicin,0.8,IV,BD,6.0,acute pulmonary edema
+64.0,Female,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",ceftriaxone,1.0,IV,BD,5.0,acute pulmonary edema
+64.0,Male,"hcv(+), col, koch’s lung",ceftriaxone,1.0,IV,BD,1.0,col
+64.0,Female,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",gentamicin,0.8,IV,BD,6.0,type 2 dm
+64.0,Female,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",gentamicin,0.8,IV,BD,6.0,chest infection
+63.0,Male,"acute copd, chest infection",ceftazidime,1.0,IV,TDS,4.0,chest infection
+63.0,Male,"acute copd, chest infection",Clarithromycin,1.0,Oral,BD,1.0,chest infection
+63.0,Female,"acute liver disease, weil's disease, renal impairment",ceftriaxone,1.0,IV,BD,3.0,acute liver disease
+63.0,Female,"fever, dyspnoea",imipenem,0.5,IV,TDS,7.0,fever
+63.0,Female,"acute liver disease, weil's disease, renal impairment",meropenem,0.5,IV,OD,1.0,acute liver disease
+63.0,Male,"acute copd, chest infection",Cefixime,1.0,Oral,BD,7.0,chest infection
+63.0,Male,"acute copd, chest infection",Clarithromycin,1.0,Oral,BD,1.0,copd
+63.0,Male,"acute copd, chest infection",Cefixime,1.0,Oral,BD,7.0,copd
+63.0,Male,"acute copd, chest infection",ceftazidime,1.0,IV,TDS,4.0,copd
+62.0,Female,snake bite at right foot,amoxicillin+flucloxacillin,0.25,Oral,TDS,5.0,snake bite
+62.0,Female,hcv(+)col,Levofloxacin,0.5,IV,OD,6.0,hepatitis encephalopathy
+62.0,Female,"ulcer at left leg,  impaired glucose tolerence",ceftazidime,1.0,IV,TDS,6.0,ulcer at left leg
+62.0,Female,"ulcer at left leg, impaired glucose tolerance",metronidazole,0.75,IV,TDS,6.0,ulcer at left leg
+62.0,Female,snake bite at right foot,amoxicillin+flucloxacillin,0.5,IV,TDS,1.0,snake bite
+62.0,Female,"ulcer at left leg,  impaired glucose tolerence",ceftazidime,1.0,IV,TDS,6.0,impaired glucose tolerence
+62.0,Female,"ulcer at left leg, impaired glucose tolerance",metronidazole,0.75,IV,TDS,6.0,impaired glucose tolerance
+62.0,Female,"urinay tract infection,  Type 2DM,  AF,  hypertension",cefepime,1.0,IV,BD,5.0,uti
+62.0,Female,"ulcer at left leg,  impaired glucose tolerance",Cefixime,0.2,Oral,BD,5.0,ulcer at left leg
+62.0,Female,"urinary tract infection,  type 2DM, AF,  hypertension",co-amoxiclav,1.2,IV,TDS,1.0,uti
+62.0,Female,hcv(+)col,ceftriaxone,1.0,IV,BD,6.0,hepatitis encephalopathy
+62.0,Female,"urinary tract infection,  type 2DM, AF,  hypertension",co-amoxiclav,1.2,IV,TDS,1.0,type 2 dm
+62.0,Female,"ulcer at left leg,  impaired glucose tolerance",Cefixime,0.2,Oral,BD,5.0,impaired glucose tolerance
+62.0,Female,"urinay tract infection,  Type 2DM,  AF,  hypertension",cefepime,1.0,IV,BD,5.0,af
+62.0,Female,"urinary tract infection,  type 2DM, AF,  hypertension",co-amoxiclav,1.2,IV,TDS,1.0,hypertension
+62.0,Female,"urinay tract infection,  Type 2DM,  AF,  hypertension",cefepime,1.0,IV,BD,5.0,hypertension
+62.0,Female,"urinary tract infection,  type 2DM, AF,  hypertension",co-amoxiclav,1.2,IV,TDS,1.0,af
+62.0,Female,"urinay tract infection,  Type 2DM,  AF,  hypertension",cefepime,1.0,IV,BD,5.0,type 2 dm
+61.0,Male,"ca lung, lung abscess",co-amoxiclav,1.2,IV,TDS,3.0,ca lung
+61.0,Male,"ca lung, lung abscess",co-amoxiclav,0.625,Oral,TDS,3.0,ca lung
+61.0,Male,"ca lung, lung abscess",co-amoxiclav,1.2,IV,TDS,3.0,lung abscess
+61.0,Male,"ca lung, lung abscess",co-amoxiclav,0.625,Oral,TDS,3.0,lung abscess
+60.0,Male,"acute ge, underlying  heart disease",metronidazole,0.75,IV,TDS,2.0,underlying  heart disease
+60.0,Male,"ccf with hypertension, dm, chest infection",ceftriaxone,1.0,IV,BD,7.0,chest infection
+60.0,Female,"chest infection, multinodular goiter, rt, hydronephrosis, thyrotoxicosis",co-amoxiclav,1.2,IV,TDS,5.0,thyrotoxicosis
+60.0,Female,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,1.2,IV,TDS,1.0,ihd
+60.0,Female,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,0.625,Oral,OD,5.0,col
+60.0,Female,"chest infection, multinodular goiter, rt, hudronephrosis, thyrotoxicosis",co-amoxiclav,0.625,Oral,TDS,2.0,multinodular goiter
+60.0,Female,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,0.625,Oral,OD,5.0,chest infection
+60.0,Male,left moderate pleural effusion,co-amoxiclav,1.2,IV,TDS,5.0,left moderate pleural effusion
+60.0,Female,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,0.625,Oral,OD,5.0,ihd
+60.0,Female,"chest infection, multinodular goiter, rt, hudronephrosis, thyrotoxicosis",co-amoxiclav,0.625,Oral,TDS,2.0,rt
+60.0,Female,"chest infection, multinodular goiter, rt, hydronephrosis, thyrotoxicosis",co-amoxiclav,1.2,IV,TDS,5.0,rt
+60.0,Female,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,1.2,IV,TDS,1.0,chest infection
+60.0,Female,"chest infection, multinodular goiter, rt, hydronephrosis, thyrotoxicosis",co-amoxiclav,1.2,IV,TDS,5.0,hydronephrosis
+60.0,Female,"chest infection, multinodular goiter, rt, hudronephrosis, thyrotoxicosis",co-amoxiclav,0.625,Oral,TDS,2.0,thyrotoxicosis
+60.0,Female,"chest infection, multinodular goiter, rt, hudronephrosis, thyrotoxicosis",co-amoxiclav,0.625,Oral,TDS,2.0,hydronephrosis
+60.0,Female,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,1.2,IV,TDS,1.0,ccf
+60.0,Female,"chest infection, multinodular goiter, rt, hydronephrosis, thyrotoxicosis",co-amoxiclav,1.2,IV,TDS,5.0,multinodular goiter
+60.0,Female,"chest infection, multinodular goiter, rt, hydronephrosis, thyrotoxicosis",co-amoxiclav,1.2,IV,TDS,5.0,chest infection
+60.0,Female,"chest infection, multinodular goiter, rt, hudronephrosis, thyrotoxicosis",co-amoxiclav,0.625,Oral,TDS,2.0,chest infection
+60.0,Female,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,0.625,Oral,OD,5.0,heart failure
+60.0,Female,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,1.2,IV,TDS,1.0,heart failure
+60.0,Female,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,0.625,Oral,OD,5.0,hcv
+60.0,Female,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,1.2,IV,TDS,1.0,hcv
+60.0,Female,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,0.625,Oral,OD,5.0,ccf
+60.0,Female,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,1.2,IV,TDS,1.0,col
+60.0,Male,"acute ge, underlying  heart disease",metronidazole,0.75,IV,TDS,2.0,acute ge
+59.0,Male,"right sided hemoporesis territory cerebral infarct,  hcv,  ospiration pneumonia",metronidazole,0.75,IV,TDS,7.0,aspiration pneumonia
+59.0,Male,"right sided hemoporesis territory cerebral infarct,  hcv,  ospiration pneumonia",ceftriaxone,1.0,IV,BD,7.0,hcv
+59.0,Male,"right sided hemoporesis territory cerebral infarct,  hcv,  ospiration pneumonia",metronidazole,0.75,IV,TDS,7.0,hcv
+59.0,Male,"right sided hemoporesis territory cerebral infarct,  hcv,  ospiration pneumonia",ceftriaxone,1.0,IV,BD,7.0,aspiration pneumonia
+58.0,Male,"copd, piles, cva",ceftazidime,1.0,IV,TDS,6.0,cva
+58.0,Male,green snake bite,metronidazole,0.75,IV,TDS,1.0,snake bite
+58.0,Female,"mitral valve prolapse, haemoptysis",ceftriaxone,1.0,IV,BD,3.0,haemoptysis and epistaxis
+58.0,Male,green snake bite,amoxicillin+flucloxacillin,0.5,Oral,TDS,5.0,snake bite
+58.0,Male,"copd, piles, cva",ceftazidime,1.0,IV,TDS,6.0,copd
+58.0,Female,"cap, type 2 dm",Cefixime,0.2,Oral,BD,5.0,cap
+58.0,Female,"chronic cardiac failure, community aquired pneumonia, IHD",ceftriaxone,1.0,IV,BD,1.0,cap
+58.0,Female,"cap, type 2 dm",ceftriaxone,1.0,IV,BD,5.0,cap
+58.0,Female,"chronic cardiac failure, community aquired pneumonia, IHD",co-amoxiclav,1.2,IV,TDS,5.0,cap
+58.0,Female,"cap, type 2 dm",metronidazole,0.75,IV,TDS,5.0,cap
+58.0,Male,"copd, piles, cva",ceftazidime,1.0,IV,TDS,6.0,piles
+58.0,Male,green snake bite,dazolic,0.5,Oral,BD,1.0,snake bite
+57.0,Male,"abscess on chin, uncontrolled type 2 dm, koch's lung",co-amoxiclav,1.2,IV,TDS,4.0,koch's lung
+57.0,Male,"acute ge,  septic shock",Cefixime,0.2,Oral,BD,2.0,septic shock
+57.0,Male,"abscess on chin, uncontrolled type 2 dm, koch's lung",clindamycin,0.2,Oral,TDS,7.0,abscess on chin
+57.0,Male,"abscess on chin, uncontrolled type 2 dm, koch's lung",co-amoxiclav,1.2,IV,TDS,4.0,abscess on chin
+57.0,Male,"abscess on chin, uncontrolled type 2 dm, koch's lung",clindamycin,0.2,Oral,TDS,7.0,koch's lung
+57.0,Male,"col, massive ascities, chest infection",ceftriaxone,1.0,IV,BD,3.0,chest infection
+57.0,Male,"acute ge,  septic shock",cefepime,1.0,IV,TDS,4.0,septic shock
+57.0,Male,"pre-renal aki, rvi stage 4 on art, koch's lung",ceftriaxone,1.0,IV,BD,5.0,acute vomitting
+57.0,Male,"pre-renal aki, rvi stage 4 on art, koch's lung",ceftriaxone,1.0,IV,BD,5.0,rvi
+57.0,Male,"acute ge,  septic shock",cefepime,1.0,IV,TDS,4.0,acute ge
+57.0,Male,"acute ge,  septic shock",metronidazole,0.75,IV,TDS,4.0,acute ge
+57.0,Male,"acute ge,  septic shock",Cefixime,0.2,Oral,BD,2.0,acute ge
+57.0,Male,"acute ge,  septic shock",metronidazole,250.0,Oral,TDS,2.0,acute ge
+57.0,Male,"abscess on chin, uncontrolled type 2 dm, koch's lung",clindamycin,0.2,Oral,TDS,7.0,type 2 dm
+57.0,Male,"abscess on chin, uncontrolled type 2 dm, koch's lung",co-amoxiclav,1.2,IV,TDS,4.0,type 2 dm
+57.0,Male,"acute ge,  septic shock",metronidazole,0.75,IV,TDS,4.0,septic shock
+57.0,Male,"acute ge,  septic shock",metronidazole,250.0,Oral,TDS,2.0,septic shock
+56.0,Male,"uti, type 2 dm, ihd, hbs ag(+)",ceftriaxone,1.0,IV,BD,1.0,ihd
+56.0,Male,"rvi satge iv, rt-sided pleural effusion, 1st line art resistence, on anti-tb",Levofloxacin,0.5,Oral,OD,7.0,prevention of infection
+56.0,Male,"alcoholic hepatitis, col, he, hypokalaemia",ceftriaxone,1.0,IV,BD,4.0,periodic hypokalaemic paralysis
+56.0,Male,"uti, type 2 dm, ihd, hbs ag(+)",ceftriaxone,1.0,IV,BD,1.0,uti
+56.0,Male,"uti, type 2 dm, ihd, hbs ag(+)",ceftriaxone,1.0,IV,BD,1.0,type 2 dm
+56.0,Male,"uti, type 2 dm, ihd, hbs ag(+)",Levofloxacin,0.2,Oral,OD,7.0,ihd
+56.0,Male,"rvi satge iv, rt-sided pleural effusion, 1st line art resistence, on anti-tb",septrin,0.96,Oral,OD,7.0,prevention of infection
+56.0,Male,"rvi satge iv, rt-sided pleural effusion, 1st line art resistence, on anti-tb",streptomycin,0.75,IM,OD,7.0,prevention of infection
+56.0,Male,"uti, type 2 dm, ihd, hbs ag(+)",ceftriaxone,1.0,IV,BD,1.0,hbs ag(+)
+56.0,Male,"uti, type 2 dm, ihd, hbs ag(+)",Levofloxacin,0.2,Oral,OD,7.0,type 2 dm
+56.0,Male,"uti, type 2 dm, ihd, hbs ag(+)",Levofloxacin,0.2,Oral,OD,7.0,uti
+56.0,Male,"uti, type 2 dm, ihd, hbs ag(+)",Levofloxacin,0.2,Oral,OD,7.0,hbs ag(+)
+55.0,Female,"type 2 dm, ischaemic heart disease",amoxicillin+flucloxacillin,0.5,Oral,TDS,1.0,uti
+55.0,Female,"type 2 dm, ischaemic heart disease",co-amoxiclav,0.6,IV,BD,7.0,uti
+55.0,Female,"type 2 dm, ischaemic heart disease",clindamycin,0.3,Oral,TDS,1.0,uti
+55.0,Female,and tb,Clarithromycin,0.5,Oral,BD,1.0,and tb
+55.0,Female,"chest infection, dm, ckd, traction retinal detachment",co-amoxiclav,0.6,IV,BD,7.0,prevention of infection
+55.0,Male,"dehydration, skin infection, dm, peripheral neuropathy, hypertension, ihd",amoxicillin+flucloxacillin,0.05,IV,TDS,5.0,skin infection
+55.0,Female,"type 2 dm, ischaemic heart disease",amoxicillin+flucloxacillin,0.5,Oral,TDS,1.0,skin infection
+55.0,Female,"type 2 dm, ischaemic heart disease",clindamycin,0.3,Oral,TDS,1.0,skin infection
+55.0,Female,"type 2 dm, ischaemic heart disease",co-amoxiclav,0.6,IV,BD,7.0,skin infection
+55.0,Female,green snake bite,amoxicillin+flucloxacillin,0.5,Oral,TDS,1.0,snake bite
+55.0,Female,abd tb,septrin,0.96,Oral,OD,1.0,abd tb
+55.0,Female,abd tb,ceftriaxone,1.0,IV,BD,3.0,abd tb
+54.0,Male,"cap, h1n1(+)",cefoperazone,1.0,IV,BD,14.0,cap
+54.0,Male,"cap, h1n1(+)",Cefixime,0.2,Oral,BD,7.0,cap
+54.0,Male,"cap, h1n1(+)",Clarithromycin,0.5,Oral,BD,5.0,cap
+54.0,Female,"hydropneumothorax, empyema, type 2 dm, myoma uterus",co-amoxiclav,1.2,IV,TDS,14.0,empyema
+54.0,Female,"hydropneumothorax, empyema, type 2 dm, myoma uterus",metronidazole,0.75,IV,TDS,1.0,empyema
+54.0,Female,"hydropneumothorax, empyema, type 2 dm, myoma uterus",metronidazole,0.75,IV,TDS,1.0,myoma uterus
+54.0,Female,"hydropneumothorax, empyema, type 2 dm, myoma uterus",co-amoxiclav,1.2,IV,TDS,14.0,type 2 dm
+54.0,Female,"hydropneumothorax, empyema, type 2 dm, myoma uterus",co-amoxiclav,1.2,IV,TDS,14.0,hydropneumothorax
+54.0,Female,"hydropneumothorax, empyema, type 2 dm, myoma uterus",metronidazole,0.75,IV,TDS,1.0,hydropneumothorax
+54.0,Male,"he, hypokalemia,  ich",ceftriaxone,2.0,IV,BD,2.0,hypokalemia
+54.0,Male,"he, hypokalemia,  ich",ceftriaxone,2.0,IV,BD,2.0,ich
+54.0,Male,"he, hypokalemia,  ich",ceftriaxone,2.0,IV,BD,2.0,he
+54.0,Female,"hydropneumothorax, empyema, type 2 dm, myoma uterus",co-amoxiclav,1.2,IV,TDS,14.0,myoma uterus
+54.0,Male,"cap, h1n1(+)",Cefixime,0.2,Oral,BD,7.0,h1n1(+)
+54.0,Male,"cap, h1n1(+)",Clarithromycin,0.5,Oral,BD,5.0,h1n1(+)
+54.0,Male,"cap, h1n1(+)",cefoperazone,1.0,IV,BD,14.0,h1n1(+)
+54.0,Female,"hydropneumothorax, empyema, type 2 dm, myoma uterus",metronidazole,0.75,IV,TDS,1.0,type 2 dm
+53.0,Male,"b(+), col, gastritis",ceftriaxone,1.0,IV,BD,1.0,b
+53.0,Male,"b(+), col, gastritis",ceftriaxone,1.0,IV,BD,1.0,gastritis
+53.0,Male,"alcoholic hepatitis,  alcohol col",ceftriaxone,1.0,IV,BD,5.0,alcoholic hepatitis
+53.0,Female,"copd, chest infection, ihd, hypertension, newly dx dm",Levofloxacin,0.5,Oral,OD,7.0,chest infection
+53.0,Male,green snake bite,amoxicillin+flucloxacillin,0.5,Oral,TDS,5.0,snake bite
+53.0,Female,"dm, acute ge, koch's lung",ceftriaxone,1.0,IV,BD,3.0,koch's lung
+53.0,Female,"copd, chest infection, ihd, hypertension, newly dx dm",co-amoxiclav,1.2,IV,TDS,3.0,copd
+53.0,Male,"b(+), col, gastritis",ceftriaxone,1.0,IV,BD,1.0,col
+53.0,Male,"alcoholic hepatitis,  alcohol col",ceftriaxone,1.0,IV,BD,5.0,col
+53.0,Female,"dm, acute ge, koch's lung",ciprofloxacin,0.5,Oral,BD,2.0,koch's lung
+53.0,Female,"copd, chest infection, ihd, hypertension, newly dx dm",co-amoxiclav,1.2,IV,TDS,3.0,chest infection
+53.0,Female,"copd, chest infection, ihd, hypertension, newly dx dm",ceftriaxone,1.0,IV,BD,2.0,copd
+53.0,Female,"copd, chest infection, ihd, hypertension, newly dx dm",Levofloxacin,0.5,Oral,OD,7.0,copd
+53.0,Female,"dm, acute ge, koch's lung",ceftriaxone,1.0,IV,BD,3.0,acute ge
+53.0,Female,"copd, chest infection, ihd, hypertension, newly dx dm",ceftriaxone,1.0,IV,BD,2.0,chest infection
+53.0,Female,"dm, acute ge, koch's lung",ciprofloxacin,0.5,Oral,BD,2.0,type 2 dm
+53.0,Female,"dm, acute ge, koch's lung",ciprofloxacin,0.5,Oral,BD,2.0,acute ge
+53.0,Female,"dm, acute ge, koch's lung",ceftriaxone,1.0,IV,BD,3.0,type 2 dm
+52.0,Male,"af,  is he mic hd,  type2 dm,  newly dx rvi",amoxicillin+flucloxacillin,0.5,IV,QID,1.0,chest infection
+52.0,Male,"chest infection, copd",Clarithromycin,0.5,Oral,BD,4.0,chest infection
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,1.2,IV,BD,2.0,koch's lung
+52.0,Male,"chest infection, copd",co-amoxiclav,2.0,IV,TDS,4.0,copd
+52.0,Male,"chest infection, copd",ceftriaxone,1.0,IV,BD,4.0,copd
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",septrin,0.96,Oral,OD,1.0,koch's lung
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,0.6,IV,OD,5.0,koch's lung
+52.0,Female,"upper gi bleeding d/t analgesis, art defaultes, rvi, chest infection, koch's lung",co-amoxiclav,1.2,IV,TDS,6.0,koch's lung
+52.0,Male,esrd,ceftriaxone+sulbactam,1.0,IV,BD,4.0,esrd
+52.0,Male,esrd,co-amoxiclav,1.2,IV,OD,1.0,esrd
+52.0,Male,esrd,co-amoxiclav,0.6,Oral,OD,1.0,esrd
+52.0,Male,ESRD,Cefixime,0.2,Oral,BD,5.0,esrd
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,0.6,IV,OD,5.0,renal impairment
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",septrin,0.96,Oral,OD,1.0,renal impairment
+52.0,Male,"chest infection, copd",Clarithromycin,0.5,Oral,BD,4.0,copd
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,1.2,IV,BD,2.0,ccf
+52.0,Female,"upper gi bleeding d/t analgesis, art defaultes, rvi, chest infection, koch's lung",co-amoxiclav,1.2,IV,TDS,6.0,chest infection
+52.0,Male,"chest infection, copd",co-amoxiclav,2.0,IV,TDS,4.0,chest infection
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,0.6,IV,OD,5.0,rvi
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",septrin,0.96,Oral,OD,1.0,rvi
+52.0,Male,"chest infection, old stoke, af, ischaemic ihd, type2 dm, newly dx rvi",ceftriaxone,1.0,IV,BD,5.0,chest infection
+52.0,Male,hmac nsaid induced piles gastritis,Cefixime,0.2,Oral,BD,5.0,prevention of infection
+52.0,Male,"chest infection, copd",ceftriaxone,1.0,IV,BD,4.0,chest infection
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,1.2,IV,BD,2.0,renal impairment
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,0.6,IV,OD,5.0,ht
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,1.2,IV,BD,2.0,ht
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,1.2,IV,BD,2.0,increased lft
+52.0,Female,"complicated uti, renal stone, akt, poorly controlled dm",pipercillin+tazobactam,2.25,IV,BD,7.0,uti
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",septrin,0.96,Oral,OD,1.0,increased lft
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",septrin,0.96,Oral,OD,1.0,ht
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,0.6,IV,OD,5.0,increased lft
+52.0,Female,"complicated uti, renal stone, akt, poorly controlled dm",nitrofurantoin,0.1,IV,BD,7.0,uti
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,1.2,IV,BD,2.0,rvi
+52.0,Male,"chest infection,  old stroke,  af,  is he mic hd,  type2 dm,  newly dx rvi",ceftriaxone,1.0,IV,BD,5.0,chest infection
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,0.6,IV,OD,5.0,ccf
+52.0,Female,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",septrin,0.96,Oral,OD,1.0,ccf
+52.0,Male,"chest infection, old stroke, af, ischaemic ihd, type2 dm, newly dx  rvi",amoxicillin+flucloxacillin,0.5,IV,QID,1.0,chest infection
+51.0,Female,green snake bite,amoxicillin+flucloxacillin,0.5,Oral,TDS,5.0,snake bite
+51.0,Male,"copd, chest infection, ihd, koch's lung, newly dx dm",linezolid,0.6,Oral,BD,7.0,chest infection
+51.0,Male,"copd, chest infection, ihd, koch's lung, newly dx dm",ceftazidime,1.0,IV,TDS,8.0,chest infection
+51.0,Female,"acute sever asthma, chest infection",co-amoxiclav,0.625,Oral,TDS,5.0,chest infection
+51.0,Female,"acute sever asthma, chest infection",co-amoxiclav,0.625,Oral,TDS,5.0,asthma
+50.0,Male,"acute ge, pancytopenia",metronidazole,0.75,IV,TDS,4.0,prevention of infection
+50.0,Male,"thyrotoxicosis, joint pain, puo",ceftriaxone,1.0,IV,BD,4.0,puo
+50.0,Male,"treated hcv, pott’s spine",Cefixime,0.2,Oral,BD,5.0,treated hcv
+50.0,Male,"treated hcv, pott’s spine",Cefixime,0.2,Oral,BD,5.0,pott’s spine
+50.0,Female,bronchial asthma,co-amoxiclav,1.2,IV,TDS,7.0,asthma
+50.0,Male,"thyrotoxicosis, joint pain, puo",ceftriaxone,1.0,IV,BD,4.0,thyrotoxicosis
+50.0,Male,"thyrotoxicosis, joint pain, puo",ceftriaxone,1.0,IV,BD,4.0,joint pain
+50.0,Male,intracerebral haemorrhage,metronidazole,0.75,IV,TDS,1.0,intracerebral haemorrhage
+50.0,Female,"dka, uti, poor drug compliance",ceftriaxone,1.0,IV,BD,1.0,uti
+50.0,Male,intracerebral haemorrhage,ceftriaxone,1.0,IV,BD,1.0,intracerebral haemorrhage
+49.0,Female,"bppv, type2 DM, postural hypertension",ceftriaxone,1.0,IV,BD,1.0,postural hypertension
+49.0,Female,"bppv, type2 DM, postural hypertension",Cefixime,1.0,Oral,BD,5.0,type 2 dm
+49.0,Female,"bppv, type2 DM, postural hypertension",ceftriaxone,1.0,IV,BD,1.0,bppv
+49.0,Female,"bppv, type2 DM, postural hypertension",Cefixime,1.0,Oral,BD,5.0,bppv
+49.0,Female,"pleural effusion, icm, ca breast",ceftriaxone,1.0,IV,BD,1.0,prevention of infection
+49.0,Male,"haematemesis, chronic alcoholic, he, acute gastric erosion",ceftriaxone,1.0,IV,BD,1.0,prevention of infection
+49.0,Female,"bppv, type2 DM, postural hypertension",ceftriaxone,1.0,IV,BD,1.0,type 2 dm
+49.0,Female,"bppv, type2 DM, postural hypertension",Cefixime,1.0,Oral,BD,5.0,postural hypertension
+48.0,Female,"pancytopencia, aki, rvi, b,c coinfection",cefoperazone,1.0,IV,BD,5.0,b
+48.0,Female,"he,  rvi with col",rifaximin,0.55,Oral,BD,1.0,vil
+48.0,Female,"confusion, liver impairment,esophagocutaneous fistula",Levofloxacin,0.75,Oral,OD,1.0,esophagocutaneous fistula
+48.0,Female,"pancytopenia, aki, rvi, b,c coinfection",septrin,0.96,Oral,OD,3.0,b
+48.0,Female,"confusion, liver impairment,esophagocutaneous fistula",amoxicillin+flucloxacillin,0.5,Oral,TDS,7.0,esophagocutaneous fistula
+48.0,Female,"confusion, liver impairment,esophagocutaneous fistula",streptomycin,1.0,IM,OD,1.0,esophagocutaneous fistula
+48.0,Female,"he,  rvi with col",ceftriaxone,1.0,IV,BD,8.0,rvi
+48.0,Male,chest infection with renal impairment,linezolid,0.6,Oral,BD,1.0,chest infection
+48.0,Female,"he, rvi with col",ceftriaxone,1.0,IV,OD,8.0,rvi
+48.0,Female,"he,  rvi with col",Levofloxacin,0.25,IV,OD,3.0,rvi
+48.0,Male,"symptomatic hypoglycemia,  chest infection,  alcoholic COL,  Addison's disease",co-amoxiclav,1.2,IV,TDS,1.0,symptomatic hypoglycemia
+48.0,Female,"he, rvi with col",Levofloxacin,0.5,IV,OD,8.0,rvi
+48.0,Female,"pancytopencia, aki, rvi, b,c coinfection",cefoperazone,1.0,IV,BD,5.0,c coinfection
+48.0,Female,"pancytopenia, aki, rvi, b,c coinfection",septrin,0.96,Oral,OD,3.0,c coinfection
+48.0,Male,"miliary tb, acute ge",metronidazole,0.75,IV,TDS,1.0,acute ge
+48.0,Male,"miliary tb, acute ge",ceftriaxone,1.0,IV,BD,1.0,acute ge
+48.0,Male,"miliary tb, acute ge",co-amoxiclav,0.625,Oral,TDS,5.0,acute ge
+48.0,Male,"systematic hypoglycemia,  chest infection,  alcoholic COL,  Addision's disease",metronidazole,0.75,IV,TDS,1.0,systematic hypoglycemia
+48.0,Male,"symptomatic hypoglycemia,  chest infection,  alcoholic COL,  Addison's disease",ceftriaxone,1.0,IV,OD,1.0,symptomatic hypoglycemia
+48.0,Female,"he,  rvi with col",rifaximin,0.55,Oral,BD,1.0,fever
+48.0,Male,chest infection with renal impairment,Levofloxacin,0.5,IV,BD,3.0,chest infection
+48.0,Female,"ccf, ckd",septrin,0.48,Oral,OD,3.0,chronic cardiac failure
+48.0,Female,"confusion, liver impairment,esophagocutaneous fistula",amoxicillin+flucloxacillin,0.5,Oral,TDS,7.0,liver impairment
+48.0,Female,"ccf, ckd",cefoperazone,1.0,IV,BD,4.0,chronic cardiac failure
+48.0,Female,"he,  rvi with col",Levofloxacin,0.25,IV,OD,3.0,high fever
+48.0,Female,"he, rvi with col",ceftriaxone,1.0,IV,OD,8.0,high fever
+48.0,Female,"confusion, liver impairment,esophagocutaneous fistula",Levofloxacin,0.75,Oral,OD,1.0,liver impairment
+48.0,Female,"confusion, liver impairment,esophagocutaneous fistula",streptomycin,1.0,IM,OD,1.0,liver impairment
+48.0,Male,"septic shock, hcv co-infection, col, liver impairment, electrolyte imbalance",ceftriaxone,1.0,IV,BD,1.0,alcoholic hcv
+48.0,Female,"he, rvi with col",Levofloxacin,0.5,IV,OD,8.0,high fever
+48.0,Male,"miliary tb, acute ge",ceftriaxone,1.0,IV,BD,1.0,miliary tb
+48.0,Male,"miliary tb, acute ge",co-amoxiclav,0.625,Oral,TDS,5.0,miliary tb
+48.0,Male,"miliary tb, acute ge",metronidazole,0.75,IV,TDS,1.0,miliary tb
+48.0,Male,"systematic hypoglycemia,  chest infection,  alcoholic COL,  Addision's disease",metronidazole,0.75,IV,TDS,1.0,chest infection
+48.0,Male,"symptomatic hypoglycemia,  chest infection,  alcoholic COL,  Addison's disease",co-amoxiclav,1.2,IV,TDS,1.0,chest infection
+48.0,Male,"symptomatic hypoglycemia,  chest infection,  alcoholic COL,  Addison's disease",ceftriaxone,1.0,IV,OD,1.0,chest infection
+48.0,Male,"symptomatic hypoglycemia,  chest infection,  alcoholic COL,  Addison's disease",co-amoxiclav,1.2,IV,TDS,1.0,Addison's disease
+48.0,Male,"systematic hypoglycemia,  chest infection,  alcoholic COL,  Addision's disease",metronidazole,0.75,IV,TDS,1.0,Addison's disease
+48.0,Male,"symptomatic hypoglycemia,  chest infection,  alcoholic COL,  Addison's disease",ceftriaxone,1.0,IV,OD,1.0,Addison's disease
+48.0,Female,"he,  rvi with col",ceftriaxone,1.0,IV,BD,8.0,high fever
+48.0,Male,"systematic hypoglycemia,  chest infection,  alcoholic COL,  Addision's disease",metronidazole,0.75,IV,TDS,1.0,col
+48.0,Female,"he, rvi with col",ceftriaxone,1.0,IV,OD,8.0,col
+48.0,Female,"he,  rvi with col",ceftriaxone,1.0,IV,BD,8.0,col
+48.0,Female,"he,  rvi with col",Levofloxacin,0.25,IV,OD,3.0,col
+48.0,Female,"confusion, liver impairment,esophagocutaneous fistula",Levofloxacin,0.75,Oral,OD,1.0,confusion
+48.0,Female,"confusion, liver impairment,esophagocutaneous fistula",streptomycin,1.0,IM,OD,1.0,confusion
+48.0,Female,"ccf, ckd",septrin,0.48,Oral,BD,1.0,chronic cardiac failure
+48.0,Female,"confusion, liver impairment,esophagocutaneous fistula",amoxicillin+flucloxacillin,0.5,Oral,TDS,7.0,confusion
+48.0,Female,"he,  rvi with col",rifaximin,0.55,Oral,BD,1.0,col
+48.0,Female,"he, rvi with col",Levofloxacin,0.5,IV,OD,8.0,col
+48.0,Male,"symptomatic hypoglycemia,  chest infection,  alcoholic COL,  Addison's disease",co-amoxiclav,1.2,IV,TDS,1.0,col
+48.0,Male,"symptomatic hypoglycemia,  chest infection,  alcoholic COL,  Addison's disease",ceftriaxone,1.0,IV,OD,1.0,col
+47.0,Female,age,ciprofloxacin,0.5,Oral,BD,5.0,age
+47.0,Male,"hypokakaemia, col",Levofloxacin,0.5,Oral,OD,2.0,col
+47.0,Male,"hcv(+), pancytopenia, rvi, mtb(+) very low",ceftriaxone,1.0,IV,BD,1.0,acute hbv-hcv co-infection
+47.0,Male,centipede bite,amoxicillin+flucloxacillin,0.5,Oral,TDS,1.0,for killing according bacteria
+46.0,Male,"he,  alcoholic hepatitis,  col,  portal ht,  hma,  uti",ceftriaxone,1.0,IV,BD,3.0,he
+46.0,Male,"early col, uti, chest infection",Cefixime,0.2,Oral,BD,5.0,chest infection
+46.0,Male,"he,  alcoholic hepatitis,  alcohol col,  portal ht,  hma, uti",co-amoxiclav,1.2,IV,TDS,4.0,he
+46.0,Male,"he, alcoholic hepatitis,  col,  portal ht,  hma,  uti",rifaximin,0.55,Oral,BD,28.0,he
+46.0,Male,"he,  alcoholic hepatitis,  col,  portal ht,  hma,  uti",linezolid,0.6,Oral,BD,7.0,he
+46.0,Male,"early col, uti, chest infection",Cefixime,0.2,Oral,BD,5.0,uti
+46.0,Male,"early col, uti, chest infection",ceftriaxone,1.0,IV,BD,4.0,uti
+46.0,Male,"early col, uti, chest infection",ceftriaxone,1.0,IV,BD,4.0,chest infection
+46.0,Male,pleural effusion,co-amoxiclav,0.625,Oral,TDS,5.0,left sided pleural effusion
+45.0,Male,"hepatic encephalopathy, col, upper gi bleeding",ceftriaxone,1.0,IV,BD,2.0,hepatic encephalopathy
+45.0,Male,"hepatic encephalopathy, col, upper gi bleeding",metronidazole,0.75,IV,TDS,1.0,hepatic encephalopathy
+45.0,Male,"lung abscess, koch lung, chronic alcoholic",metronidazole,0.75,IV,TDS,1.0,chronic alcoholic
+45.0,Male,"hepatic encephalopathy, col, upper gi bleeding",metronidazole,0.75,IV,TDS,1.0,col
+45.0,Male,"lung abscess, koch lung, chronic alcoholic",metronidazole,0.75,IV,TDS,1.0,koch's lung
+45.0,Male,"hepatic encephalopathy, col, upper gi bleeding",metronidazole,0.75,IV,TDS,1.0,upper gi bleeding
+45.0,Male,"hepatic encephalopathy, col, upper gi bleeding",ceftriaxone,1.0,IV,BD,2.0,upper gi bleeding
+45.0,Female,unknown bite of right hand,amoxicillin+flucloxacillin,0.5,Oral,TDS,1.0,unknown bite
+45.0,Female,"skin infection, staphylococcal infection, tb",metronidazole,0.75,IV,TDS,11.0,fever
+45.0,Female,"skin infection, staphylococcal infection, tb",Levofloxacin,0.5,IV,OD,5.0,fever
+45.0,Female,"skin infection, staphylococcal infection, tb",amoxicillin+flucloxacillin,1.0,IV,QID,1.0,fever
+45.0,Female,"recurrent uti, type 2 dm",meropenem,500.0,IV,TDS,4.0,uti
+45.0,Male,"hepatic encephalopathy, col, upper gi bleeding",ceftriaxone,1.0,IV,BD,2.0,col
+45.0,Male,"lung abscess, koch lung, chronic alcoholic",ceftriaxone,1.0,IV,BD,1.0,koch's lung
+45.0,Male,"lung abscess, koch lung, chronic alcoholic",ceftriaxone,1.0,IV,BD,1.0,chronic alcoholic
+45.0,Male,"lung abscess, koch lung, chronic alcoholic",metronidazole,0.75,IV,TDS,1.0,lung abscess
+45.0,Male,"lung abscess, koch lung, chronic alcoholic",ceftriaxone,1.0,IV,BD,1.0,lung abscess
+45.0,Female,"anaemia, hypochromic microcytic anaemia, u/l diabetes mellitus",amoxicillin,1.0,Oral,BD,14.0,anaemia with u/l dm
+45.0,Female,"anaemia, hypochromic microcytic anaemia, u/l diabetes mellitus",Clarithromycin,0.5,Oral,BD,14.0,anaemia with u/l dm
+44.0,Male,"hepatic encephalopathy, cirrhosis of liver, hypokalaemia, chest infection",rifaximin,0.55,Oral,BD,1.0,chest infection
+44.0,Male,"hepatic encephalopathy, cirrhosis of liver, hypokalemia, chest infection",ceftriaxone,1.0,IV,BD,5.0,chest infection
+44.0,Male,"col, hepatitis,  sbp, he, hk",ceftriaxone,1.0,IV,BD,1.0,col
+44.0,Male,"col, hepatitis,  sbp, he, hk",ceftriaxone,1.0,IV,BD,1.0,hepatitis
+44.0,Male,"alcohol hepatitis, left pleural effusion",Cefixime,0.5,Oral,BD,3.0,alcoholic hepatitis
+44.0,Male,"col, hepatitis,  sbp, he, hk",ceftriaxone,1.0,IV,BD,1.0,hk
+44.0,Male,"col, hepatitis,  sbp, he, hk",ceftriaxone,1.0,IV,BD,1.0,sbp
+44.0,Female,"ureteric stone, uti",ceftriaxone,1.0,IV,BD,7.0,i/t for generalized edema
+44.0,Male,"col, hepatitis,  sbp, he, hk",ceftriaxone,1.0,IV,BD,1.0,he
+44.0,Female,unknown snake bite,flucloxacillin,0.5,Oral,TDS,5.0,snake bite
+44.0,Male,"alcohol hepatitis, left pleural effusion",Cefixime,0.5,Oral,BD,3.0,left pleural effusion
+43.0,Male,"dka, chest infection, pancreatic dm",Cefixime,0.2,Oral,BD,1.0,chest infection
+43.0,Male,"dka, chest infection, pancreatic dm",ceftriaxone,1.0,IV,BD,3.0,chest infection
+43.0,Female,"dka, chest infection, pancreatic dm",cefoperazone,1.0,IV,BD,4.0,chest infection
+43.0,Male,acute severe asthma,co-amoxiclav,1.2,IV,TDS,1.0,respiratory infection
+43.0,Male,"hma, dm, dkd",Clarithromycin,0.5,Oral,BD,14.0,for ogd scopy
+43.0,Male,"hma, dm, dkd",amoxiclav,1.0,Oral,BD,14.0,for ogd scopy
+43.0,Female,supine bite,amoxicillin+flucloxacillin,0.5,Oral,TDS,5.0,prevention of infection
+42.0,Male,"stroke, newly diagnosis rvi, hbv infection",ceftriaxone,1.0,IV,BD,1.0,prevention of infection
+42.0,Male,left sided pulmonary tb,ceftriaxone,1.0,IV,BD,6.0,hcv
+42.0,Female,"acute ge, rhd(severe ms mild mr) e af on warfrin",metronidazole,0.75,IV,TDS,3.0,rheumatic heart disease
+42.0,Female,"acute ge, rhd( severe ms mild mr) e af on warfrin",cifran,0.75,IV,BD,3.0,rheumatic heart disease
+42.0,Male,left sided pulmonary tb,ceftriaxone,1.0,IV,BD,6.0,aspiration pneumonia
+42.0,Female,"koch's lung, hbv infection",Cefixime,0.2,Oral,BD,5.0,hbv infection
+42.0,Female,"acute ge, rhd(severe ms mild mr) e af on warfrin",pen v,0.25,Oral,BD,3.0,rheumatic heart disease
+42.0,Female,"koch's lung, hbv infection",Cefixime,0.2,Oral,BD,5.0,koch's lung
+41.0,Male,"hepatic encephalopathy, col, hypokalaemia",Cefixime,0.2,Oral,BD,3.0,hypokalaemia
+41.0,Male,"hepatic encephalopathy, col, hypokalaemia",rifaximin,0.55,Oral,BD,3.0,hypokalaemia
+41.0,Male,"right leg cellulitis, col, duodenal erosion, rvi stage 2",amoxicillin+flucloxacillin,1.0,IV,QID,8.0,duodenal erosion
+41.0,Male,"hepatic encephalopathy, col, hypokalaemia",ceftriaxone,1.0,IV,BD,3.0,hypokalaemia
+41.0,Male,"right leg cellulitis, col, duodenal erosion, rvi satge",amoxicillin+flucloxacillin,0.5,Oral,TDS,5.0,duodenal erosion
+41.0,Male,"hepatic encephalopathy, col, hypokalaemia",ceftriaxone,1.0,IV,BD,3.0,hepatic encephalopathy
+41.0,Male,"hepatic encephalopathy, col, hypokalaemia",rifaximin,0.55,Oral,BD,3.0,hepatic encephalopathy
+41.0,Male,"hepatic encephalopathy, col, hypokalaemia",rifaximin,0.55,Oral,BD,3.0,col
+41.0,Male,"hepatic encephalopathy, col, hypokalaemia",ceftriaxone,1.0,IV,BD,3.0,col
+41.0,Male,"right leg cellulitis, col, duodenal erosion, rvi satge 2",clindamycin,0.5,Oral,TDS,1.0,duodenal erosion
+41.0,Male,"hepatic encephalopathy, col, hypokalaemia",Cefixime,0.2,Oral,BD,3.0,col
+41.0,Male,"hepatic encephalopathy, col, hypokalaemia",Cefixime,0.2,Oral,BD,3.0,hepatic encephalopathy
+40.0,Male,"he, col, portal hypertension, hrs, koch's lung",ceftriaxone,1.0,IV,BD,1.0,portal hypertension
+40.0,Male,"hepatitis, leptospirosis, typhoid",ceftriaxone,1.0,IV,BD,1.0,hepatitis
+40.0,Male,"he, col, portal hypertension, hrs, koch's lung",rifampicin,0.55,Oral,BD,1.0,portal hypertension
+40.0,Male,"he, col, portal hypertension, hrs, koch's lung",ceftriaxone,1.0,IV,BD,1.0,koch's lung
+40.0,Male,"hyponetrimia, hcv(+), hepatic encephalopathy, aspiration pneumonia",rifaximin,0.55,Oral,BD,7.0,hcv
+40.0,Male,"pcp, septic shock",co-amoxiclav,1.2,IV,TDS,1.0,pcp
+40.0,Female,unknown snake bite,amoxicillin+flucloxacillin,0.5,Oral,TDS,5.0,snake bite
+40.0,Male,"he, col, portal hypertension, hrs, koch's lung",rifampicin,0.55,Oral,BD,1.0,col
+40.0,Male,"hyponetrimia, hcv(+), hepatic encephalopathy, aspiration pneumonia",metronidazole,0.25,Oral,TDS,7.0,aspiration pneumonia
+40.0,Male,"hyponetrimia, hcv(+), hepatic encephalopathy, aspiration pneumonia",rifaximin,0.55,Oral,BD,7.0,aspiration pneumonia
+40.0,Male,"hyponetrimia, hcv(+), hepatic encephalopathy, aspiration pneumonia",Cefixime,0.2,Oral,BD,7.0,aspiration pneumonia
+40.0,Male,"hepatitis, leptospirosis, typhoid",ceftriaxone,1.0,IV,BD,1.0,leptospirosis
+40.0,Male,"he, col, portal hypertension, hrs, koch's lung",rifampicin,0.55,Oral,BD,1.0,koch's lung
+40.0,Male,"pcp, septic shock",septrin,0.96,Oral,TDS,1.0,septic shock
+40.0,Male,"pcp, septic shock",co-amoxiclav,1.2,IV,TDS,1.0,septic shock
+40.0,Male,"he, col, portal hypertension, hrs, koch's lung",rifampicin,0.55,Oral,BD,1.0,he
+40.0,Male,"he, col, portal hypertension, hrs, koch's lung",ceftriaxone,1.0,IV,BD,1.0,col
+40.0,Male,"he, col, portal hypertension, hrs, koch's lung",ceftriaxone,1.0,IV,BD,1.0,hrs
+40.0,Male,"he, col, portal hypertension, hrs, koch's lung",rifampicin,0.55,Oral,BD,1.0,hrs
+40.0,Male,"hepatitis, leptospirosis, typhoid",ceftriaxone,1.0,IV,BD,1.0,typhoid
+40.0,Male,acute bronchitis,co-amoxiclav,1.2,IV,TDS,3.0,acute bronchitis
+40.0,Male,"pcp, septic shock",septrin,0.96,Oral,TDS,1.0,pcp
+40.0,Male,"he, col, portal hypertension, hrs, koch's lung",ceftriaxone,1.0,IV,BD,1.0,he
+40.0,Male,"hyponetrimia, hcv(+), hepatic encephalopathy, aspiration pneumonia",metronidazole,0.25,Oral,TDS,7.0,hcv
+40.0,Male,"hyponetrimia, hcv(+), hepatic encephalopathy, aspiration pneumonia",Cefixime,0.2,Oral,BD,7.0,hcv
+39.0,Female,severe neutropia with bone marrow supression with ART,azithromycin,0.5,Oral,BD,1.0,severe neutropia with bone marrow supression with ART
+39.0,Female,severe neutropia with bone marrow with supression with ART,amikacin,0.5,IV,BD,1.0,severe neutropia with bone marrow supression with ART
+39.0,Female,severe neutropia with bone marrow supression with ART,meropenem,0.5,IV,BD,1.0,severe neutropia with bone marrow supression with ART
+38.0,Male,"right sided hemiplegia, uncontrolled dm, chronic pancreatitis, chronix diarrhoea",ceftriaxone,1.0,IV,BD,2.0,type 2 dm
+38.0,Male,"alcohol withdrawal, extensive koch's lung, septic shock ē lrti",cefoperazone+sulbactam,2.0,IV,BD,10.0,lrti
+38.0,Male,"alcoholic  col, ascites",ceftazidime,1.0,IV,TDS,1.0,ascites
+38.0,Male,"alcohol withdrawal, extensive koch's lung, septic shock ē lrti",cefoperazone+sulbactam,2.0,IV,BD,10.0,septic shock
+38.0,Male,"right sided hemiplegia, uncontrolled dm, chronic pancreatitis, chronix diarrhoea",ceftriaxone,1.0,IV,BD,2.0,chronic diarrhoea
+38.0,Male,"right sided hemiplegia, uncontrolled dm, chronic pancreatitis, chronix diarrhoea",ceftriaxone,1.0,IV,BD,2.0,chronic pancreatitis
+38.0,Male,"alcohol withdrawal, extensive koch's lung, septic shock ē lrti",cefoperazone+sulbactam,2.0,IV,BD,10.0,extensive koch's lung
+38.0,Male,"col, ascites",ceftriaxone,1.0,IV,BD,2.0,ascites
+38.0,Male,"alcoholic  col, ascites",ceftazidime,1.0,IV,TDS,1.0,col
+38.0,Male,"col, ascites",ceftriaxone,1.0,IV,BD,2.0,col
+38.0,Female,unknown snake bite,amoxicillin+flucloxacillin,0.5,Oral,TDS,5.0,snake bite
+38.0,Male,"right sided hemiplegia, uncontrolled dm, chronic pancreatitis, chronix diarrhoea",ceftriaxone,1.0,IV,BD,2.0,right sided hemiplegia
+37.0,Male,"anaphylatic shock, UTI",Cefixime,2.0,Oral,BD,5.0,uti
+37.0,Male,"col,koch's lung, chest infestion, chronic pancreatitis, lumbar spondylosis",co-amoxiclav,1.2,IV,TDS,6.0,cheat infection
+37.0,Female,arthralgia,ceftriaxone,1.0,IV,BD,5.0,arthralgia
+37.0,Male,"col,koch's lung, chest infestion, chronic pancreatitis, lumbar spondylosis",Cefixime,0.2,Oral,BD,6.0,chest infection
+37.0,Male,"massive ascites, col, portal hypertension",ceftriaxone,1.0,IV,BD,4.0,col
+37.0,Male,"anaphyatic, UTI",ceftriaxone,1.0,IV,BD,3.0,anaphyatic shock
+37.0,Male,"massive ascites, col, portal hypertension",septrin,0.96,Oral,OD,1.0,massive ascites
+37.0,Male,"massive ascites, col, portal hypertension",septrin,0.96,Oral,OD,1.0,portal hypertension
+37.0,Male,"massive ascites, col, portal hypertension",ceftriaxone,1.0,IV,BD,4.0,massive ascites
+37.0,Male,"massive ascites, col, portal hypertension",septrin,0.96,Oral,OD,1.0,col
+37.0,Male,"anaphyatic, UTI",ceftriaxone,1.0,IV,BD,3.0,uti
+37.0,Male,"massive ascites, col, portal hypertension",ceftriaxone,1.0,IV,BD,4.0,portal hypertension
+37.0,Male,"col,koch's lung, chest infestion, chronic pancreatitis, lumbar spondylosis",Clarithromycin,0.5,Oral,BD,10.0,chest infection
+37.0,Male,"anaphylatic shock, UTI",Cefixime,2.0,Oral,BD,5.0,anaphylatic shock
+36.0,Male,"col,koch's lung, chest infestion, chronic pancreatitis, lumbar spondylosis",amikacin,0.5,IV,BD,6.0,chest indection
+36.0,Female,"recurrent uti, intra renal stone",meropenem,0.5,IV,TDS,5.0,uti
+36.0,Male,col e portal hypertension,metronidazole,0.2,Oral,TDS,1.0,col
+36.0,Male,"he grade 3, cap",co-amoxiclav,1.2,IV,TDS,1.0,he
+36.0,Male,"he grade 3, cap",Levofloxacin,0.5,IV,OD,4.0,he
+36.0,Male,"he grade 3, cap",Levofloxacin,0.5,IV,OD,4.0,cap
+36.0,Female,acute severe asthma,co-amoxiclav,1.2,IV,TDS,2.0,asthma
+36.0,Male,"he grade 3, cap",co-amoxiclav,1.2,IV,TDS,1.0,cap
+36.0,Female,"recurrrent uti, intra renal stone",ciprofloxacin,0.5,IV,BD,4.0,uti
+35.0,Male,pleural effusion,co-amoxiclav,0.625,IV,OD,1.0,pleural effusion
+35.0,Male,pleural effusion,septrin,0.96,Oral,OD,1.0,pleural effusion
+35.0,Female,rheumatic heart disease with atrial flutter,pen v,0.25,Oral,QID,7.0,rheumatic fever
+35.0,Male,"anaemia, chest infection",ceftriaxone,1.0,IV,BD,1.0,surgery
+35.0,Male,"anaemia, chest infection",pentoxifylline,0.4,Oral,TDS,1.0,surgery
+35.0,Female,green snake bite,amoxicillin+flucloxacillin,0.5,Oral,QID,5.0,snake bite
+35.0,Female,green snake bite,amoxicillin+flucloxacillin,0.5,Oral,TDS,5.0,prevention of infection
+34.0,Female,aud,ceftriaxone,1.0,IV,BD,1.0,aud
+33.0,Male,"cryptococcal meningitis, pre-renal acute kidney injury, rvi stage 4",septrin,0.96,Oral,OD,5.0,cryptococcal meningitis
+33.0,Male,"cryptococcal meningitis, pre-renal acute kidney injury, rvi stage 4",ceftriaxone,2.0,IV,BD,6.0,cryptococcal meningitis
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,1.2,IV,TDS,2.0,aki
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,0.6,Oral,OD,2.0,hcv
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",septrin,0.96,Oral,OD,1.0,retro(+)
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,0.6,Oral,OD,2.0,retro(+)
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,1.2,IV,TDS,2.0,retro(+)
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,1.2,IV,TDS,2.0,hcv
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",septrin,0.96,Oral,OD,1.0,ckd
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,0.6,Oral,OD,2.0,aki
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,0.6,Oral,OD,2.0,uraemic gastritis
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",septrin,0.96,Oral,OD,1.0,uraemic gastritis
+32.0,Male,"hepatitis, hypokalaemia, hcc, lichen amyloidosis",pentoxifylline,0.4,Oral,TDS,1.0,prevention of infection
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",septrin,0.96,Oral,OD,1.0,aki
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,1.2,IV,TDS,2.0,uraemic gastritis
+32.0,Male,"food poisoing, acute GE, some dehydration",norfloxacin,0.4,Oral,BD,3.0,acute ge
+32.0,Male,"food poisoing, acute GE, some dehydration",norfloxacin,0.4,Oral,BD,3.0,some dehydration
+32.0,Male,green snake bite,amoxicillin+flucloxacillin,0.25,Oral,TDS,3.0,snake bite
+32.0,Male,"prolonged fever ē, hypotension(leptospirosis)",ceftriaxone,1.0,IV,BD,4.0,fever
+32.0,Male,"prolonged fever ē, hypotension(leptospirosis)",ceftriaxone,1.0,IV,BD,4.0,leptospirosis
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",septrin,0.96,Oral,OD,1.0,general debility e excessive vomitting
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,0.6,Oral,OD,2.0,ckd
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,1.2,IV,TDS,2.0,ckd
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,1.2,IV,TDS,2.0,general debility e excessive vomitting
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,0.6,Oral,OD,2.0,general debility e excessive vomitting
+32.0,Male,"food poisoing, acute GE, some dehydration",norfloxacin,0.4,Oral,BD,3.0,food poisoing
+32.0,Female,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",septrin,0.96,Oral,OD,1.0,hcv
+31.0,Male,"pancreatitis, chronic alcoholics",ceftriaxone,1.0,IV,BD,4.0,chronic alcoholic
+31.0,Female,"rvi stage 4, art noise, hepatitis, bone marrow depression",ceftriaxone,1.0,IV,BD,5.0,hepatitis
+31.0,Female,"rvi, stage4, art noise, hepatitis, bone marrow depression",cefepime,1.0,IV,BD,4.0,hepatitis
+31.0,Female,"rvi, stage4, art noise, hepatitis, bone marrow depression",cefepime,1.0,IV,BD,4.0,rvi
+31.0,Female,"rvi, stage4, art noise, hepatitis, bone marrow depression",cefepime,1.0,IV,BD,4.0,rvi
+31.0,Female,PE in distal branches of left lung pul arteries,ceftriaxone,1.0,IV,BD,2.0,PE in distal branches of left lung pul arteries
+31.0,Female,"rvi stage 4, art noise, hepatitis, bone marrow depression",septrin,0.96,Oral,OD,1.0,art noise
+31.0,Female,"rvi stage 4, art noise, hepatitis, bone marrow depression",ceftriaxone,1.0,IV,BD,5.0,art noise
+31.0,Female,pe in distal bronchi of left lung pulmonary arteries,co-amoxiclav,1.2,IV,TDS,10.0,pe in distal bronchi of left lung pulmonary arteries
+31.0,Female,PE in distal branches of left lung pul arteries,Clarithromycin,0.5,Oral,BD,7.0,PE in distal branches of left lung pul arteries
+31.0,Male,"pancreatitis, chronic alcoholics",ceftriaxone,1.0,IV,BD,4.0,pancreatitis
+31.0,Female,"rvi stage 4, art noise, hepatitis, bone marrow depression",ceftriaxone,1.0,IV,BD,5.0,bone marrow depression
+31.0,Female,"rvi stage 4, art noise, hepatitis, bone marrow depression",septrin,0.96,Oral,OD,1.0,bone marrow depression
+31.0,Female,"rvi, stage4, art noise, hepatitis, bone marrow depression",cefepime,1.0,IV,BD,4.0,art noise
+31.0,Female,"rvi stage 4, art noise, hepatitis, bone marrow depression",ceftriaxone,1.0,IV,BD,5.0,rvi
+31.0,Female,"rvi stage 4, art noise, hepatitis, bone marrow depression",septrin,0.96,Oral,OD,1.0,rvi
+31.0,Female,uti,meropenem,0.5,IV,TDS,5.0,uti
+31.0,Female,uti,Levofloxacin,0.5,IV,OD,5.0,uti
+31.0,Female,"rvi, stage4, art noise, hepatitis, bone marrow depression",cefepime,1.0,IV,BD,4.0,bone marrow depression
+31.0,Female,"rvi stage 4, art noise, hepatitis, bone marrow depression",septrin,0.96,Oral,OD,1.0,hepatitis
+30.0,Female,"rhd, severe ms, mild tr, severe pol ht, large slot in la, on warfarinization",pen v,0.25,Oral,BD,1.0,dyspnoea
+30.0,Male,"atypical pneumonia, mycoplasma?, itp, left sided pleural effusion",Clarithromycin,0.5,Oral,BD,8.0,atypical pneumonia
+30.0,Male,asthma,ceftazidime,1.0,IV,TDS,3.0,asthma
+30.0,Male,"atypical pneumonia, mycoplasma?, itp, left sided pleural effusion",Levofloxacin,0.5,IV,OD,10.0,atypical pneumonia
+30.0,Male,"atypical pneumonia, mycoplasma?, itp, left sided pleural effusion",cefoperazone,1.0,IV,BD,10.0,atypical pneumonia
+30.0,Male,"alcoholic withdrawal,  alcoholic hepatitis",ceftriaxone,1.0,IV,BD,5.0,alcoholic hepatitis
+30.0,Male,alcohol withdrawal syndrome,ceftriaxone,1.0,IV,BD,1.0,alcohol withdrawal syndrome
+30.0,Male,"chikungunya, renal stone",ceftriaxone,1.0,IV,BD,1.0,uti
+30.0,Male,"atypical pneumonia, mycoplasma?, itp, left sided pleural effusion",co-amoxiclav,1.2,IV,TDS,1.0,atypical pneumonia
+30.0,Male,"alcoholic withdrawal,  alcoholic hepatitis",ceftriaxone,1.0,IV,BD,5.0,alcoholic withdrawal
+30.0,Male,"alcoholic withdrawal,  alcoholic hepatitis",Cefixime,0.2,Oral,BD,5.0,alcoholic hepatitis
+30.0,Male,"alcoholic withdrawal,  alcoholic hepatitis",Cefixime,0.2,Oral,BD,5.0,alcoholic withdrawal
+29.0,Female,"avi,  sle",Cefixime,0.2,Oral,BD,6.0,sle
+29.0,Female,"avi,  sle",ceftriaxone,1.0,IV,BD,8.0,avi
+29.0,Female,"avi,  sle",ceftriaxone,1.0,IV,BD,8.0,sle
+29.0,Female,"right lower lobe consolidation chest infection,  thrombocytopenia",co-amoxiclav,0.625,Oral,TDS,3.0,chest infection
+29.0,Female,"right lobe consolidation chest infection,  thrombocytopenia",Clarithromycin,0.5,Oral,BD,5.0,chest infection
+29.0,Female,discharge uti,ciprofloxacin,0.5,Oral,OD,1.0,discharge uti
+29.0,Female,"right lobe consolidation chest infection,  thrombocytopenia",Clarithromycin,0.5,Oral,BD,5.0,thrombocytopenia
+29.0,Male,col,ceftriaxone,1.0,IV,BD,1.0,col
+29.0,Female,clinical malaria,ceftriaxone,1.0,IV,BD,6.0,clinical malaria
+29.0,Female,clinical malaria,ciprofloxacin,0.5,Oral,BD,1.0,clinical malaria
+29.0,Female,"avi,  sle",Cefixime,0.2,Oral,BD,6.0,avi
+29.0,Female,"right lobe consolidation chest infection,  thrombocytopenia",Clarithromycin,0.5,Oral,BD,5.0,right lobe consolidation
+29.0,Female,"right lower lobe consolidation chest infection,  thrombocytopenia",co-amoxiclav,0.625,Oral,TDS,3.0,right lower lobe consolidation
+29.0,Female,"right lower lobe consolidation chest infection,  thrombocytopenia",co-amoxiclav,0.625,Oral,TDS,3.0,thrombocytopenia
+28.0,Female,"chikungunya, rash",ceftriaxone,1.0,IV,BD,5.0,penicillin induced drug reaction
+28.0,Male,febrile convulsion d/t avi,Cefixime,0.06,Oral,BD,1.0,febrile convulsion d/t avi
+28.0,Female,measle koch’s lung,Cefixime,0.2,Oral,BD,7.0,measle koch’s lung
+27.0,Male,"col, ascities, mild phg",ceftriaxone,1.0,IV,BD,4.0,surgery
+25.0,Female,unknown snake bite,amoxicillin+flucloxacillin,0.5,Oral,TDS,4.0,snake bite
+25.0,Male,"tb,  hbv",co-amoxiclav,0.6,IV,TDS,8.0,chest infection
+25.0,Male,"tb,  hbv",cefepime,0.5,IV,OD,1.0,chest infection
+25.0,Female,"hepatitis, uti",ceftriaxone,1.0,IV,BD,3.0,uti
+25.0,Female,unknown snake bite,amoxicillin+flucloxacillin,0.5,Oral,TDS,1.0,snake bite
+25.0,Male,"tb,  hbv",co-amoxiclav,0.6,IV,TDS,8.0,tb
+25.0,Male,"tb,  hbv",cefepime,0.5,IV,OD,1.0,tb
+25.0,Male,"tb,  hbv",cefepime,0.5,IV,OD,1.0,hbv infection
+25.0,Male,"tb,  hbv",co-amoxiclav,0.6,IV,TDS,8.0,hbv infection
+25.0,Male,tuberculous lymphadenitis,Cefixime,0.2,Oral,BD,5.0,lymphadenitis
+25.0,Male,tuberculous lymphadenitis,ceftriaxone,1.0,IV,BD,5.0,lymphadenitis
+25.0,Female,"hepatitis, uti",Cefixime,0.2,Oral,BD,5.0,uti
+24.0,Male,"left empyema , HCV infection",co-amoxiclav,1.5,IV,TDS,1.0,left empyema
+24.0,Male,"left empyema , HCV infection",ceftriaxone,1.0,IV,BD,1.0,left empyema
+24.0,Male,"left empyema , HCV infection",ceftriaxone,1.0,IV,BD,1.0,hcv
+24.0,Male,"left empyema , HCV infection",co-amoxiclav,1.5,IV,TDS,1.0,hcv
+23.0,Female,right moderate pleural effusion(tuberculous),co-amoxiclav,1.2,IV,TDS,7.0,tb
+23.0,Female,"acute hepatitis, clinical malaria",doxycycline,0.1,Oral,BD,7.0,prevention of infection
+23.0,Male,"discharge fits, dental caries, facial injury, menilly sinusitis",ceftriaxone,1.0,IV,BD,1.0,dental caries
+23.0,Male,"discharge fits, dental caries, facial injury, menilly sinusitis",clindamycin,150.0,Oral,TDS,5.0,dental caries
+23.0,Male,"discharge fits, dental caries, facial injury, menilly sinusitis",clindamycin,150.0,Oral,TDS,5.0,menilly sinusitis
+23.0,Male,"discharge fits, dental caries, facial injury, menilly sinusitis",ceftriaxone,1.0,IV,BD,1.0,facial injury
+23.0,Male,"discharge fits, dental caries, facial injury, menilly sinusitis",ceftriaxone,1.0,IV,BD,1.0,menilly sinusitis
+23.0,Male,"discharge fits, dental caries, facial injury, menilly sinusitis",clindamycin,150.0,Oral,TDS,5.0,facial injury
+23.0,Male,"discharge fits, dental caries, facial injury, menilly sinusitis",clindamycin,150.0,Oral,TDS,5.0,discharge fits
+23.0,Male,"discharge fits, dental caries, facial injury, menilly sinusitis",ceftriaxone,1.0,IV,BD,1.0,discharge fits
+23.0,Female,left sided massive tuberculous pleural effusion,co-amoxiclav,0.625,Oral,TDS,1.0,left sided massive tuberculous pleural effusion
+22.0,Male,meningoencephilitis,ceftriaxone,2.0,IV,BD,1.0,meningoencephilitis
+22.0,Female,acute bacillary dysentry e sepsis,metronidazole,0.5,IV,TDS,5.0,acute bacillary dysentry e sepsis
+22.0,Male,bacillary dysentry,cifran,0.5,Oral,BD,7.0,acute ge
+22.0,Male,bacillary dysentry,cifran,0.4,IV,BD,2.0,acute ge
+22.0,Male,meningoencephalitis,ceftriaxone,1.0,IV,BD,3.0,meningoencephalitis
+22.0,Female,acute severe asthma,co-amoxiclav,1.2,IV,TDS,1.0,asthma
+22.0,Female,acute severe asthma,co-amoxiclav,0.625,Oral,TDS,1.0,asthma
+22.0,Female,acute bacillary dysentry e sepsis,metronidazole,0.5,Oral,TDS,3.0,acute bacillary dysentry e sepsis
+22.0,Female,acute bacillary dysentry e sepsis,Cefepime,0.2,Oral,BD,3.0,acute bacillary dysentry e sepsis
+22.0,Male,fever with capopedal spasm,Cefixime,0.2,Oral,BD,5.0,fever
+22.0,Male,malaria,ceftriaxone,1.0,IV,BD,4.0,fever
+22.0,Male,malaria,doxycycline,0.1,Oral,BD,7.0,fever
+22.0,Female,acute bacillary dysentery e sepsis,cefoperazone+sulbactam,1.0,IV,BD,5.0,acute bacillary dysentry e sepsis
+22.0,Female,green snake bite,amoxicillin+flucloxacillin,0.5,Oral,TDS,5.0,snake bite
+22.0,Female,chikangunya,azithromycin,0.5,Oral,OD,5.0,fever
+22.0,Male,fever with capopedal spasm,ceftriaxone,1.0,IV,BD,3.0,fever
+21.0,Male,lung abscess,imipenem,0.5,IV,QID,7.0,prevention of infection
+21.0,Male,lung abscess,metronidazole,0.75,IV,TDS,9.0,prevention of infection
+21.0,Male,lung abscess,co-amoxiclav,1.2,IV,TDS,4.0,prevention of infection
+20.0,Male,"chest infection, u/l inflammatory arthropathy on steroid, hepatitis",ceftriaxone,1.0,IV,BD,9.0,chest infection
+20.0,Male,"chest infection,  retro(+)",septrin,0.06,Oral,OD,1.0,chest infection
+20.0,Male,"chest infection,  retro (+)",ceftriaxone,1.0,IV,BD,1.0,chest infection
+19.0,Female,"chest infectio, pid",metronidazole,0.5,IV,TDS,14.0,chest infection
+19.0,Female,"chest infectio, pid",ceftriaxone+sulbactam,1.0,IV,BD,3.0,chest infection
+19.0,Female,"chest infectio, pid",ceftriaxone,1.0,IV,BD,1.0,chest infection
+19.0,Male,avi,co-amoxiclav,0.625,Oral,TDS,3.0,fever
+19.0,Male,"dka, otita media, cellulitis, type 2 dm",Levofloxacin,0.5,IV,BD,11.0,infection
+19.0,Male,"dka, otita media, cellulitis, type 2 dm",cefepime,1.0,IV,TDS,2.0,infection
+19.0,Male,electrocution left hand,amoxicillin+flucloxacillin,0.25,Oral,TDS,5.0,electrocution left hand
+19.0,Male,"dka, otita media, cellulitis, type 2 dm",metronidazole,0.75,IV,TDS,8.0,infection
+19.0,Male,"dka, otita media, cellulitis, type 2 dm",clindamycin,0.3,IV,TDS,10.0,infection
+19.0,Female,"chest infectio, pid",Cefixime,0.2,Oral,TDS,14.0,chest infection
+19.0,Female,avi,ceftriaxone,1.0,IV,BD,2.0,acute pain in spa
+19.0,Male,"dka, otita media, cellulitis, type 2 dm",vancomycin,1.0,IV,BD,10.0,infection
+19.0,Female,avi,ceftriaxone,1.0,IV,BD,2.0,fainting attack
+19.0,Female,"chest infection, pid",metronidazole,0.75,IV,TDS,3.0,chest infection
+18.0,Male,"hepatitis b,",amoxicillin+flucloxacillin,1.0,Oral,TDS,5.0,hepatitis
+18.0,Male,pyexia of unknown origin,ceftriaxone,1.0,IV,BD,2.0,pyexia of unknown origin
+18.0,Male,"hepatitis b,",amoxicillin+flucloxacillin,1.0,Oral,TDS,5.0,hepatitis
+17.0,Male,anaphylaxis (?penicillin),clindamycin,0.3,Oral,TDS,1.0,penicillin allergy(wound infection)
+17.0,Male,"viral hepatitis,  depressive d/o",ceftriaxone,1.0,IV,BD,5.0,prevention of infection
+17.0,Male,"viral encephalitis,  depressive d/o",ceftriaxone,1.0,IV,BD,7.0,prevention of infection
+17.0,Female,left sided tension pneumothorax,co-amoxiclav,1.2,IV,TDS,7.0,left sided tension pneumothorax
+16.0,Male,centepede bite,amoxicillin+flucloxacillin,0.5,Oral,TDS,5.0,centepede bite
+15.0,Male,"glandular fever, measles, viral encephalitis, fever with confusion",Cefixime,0.2,Oral,BD,1.0,viral encephalitis
+15.0,Female,anxiety neurosis,ceftriaxone,1.0,IV,BD,1.0,anxiety neurosis
+15.0,Male,"glandular fever, measles, viral encephalitis, fever with confusion",ceftriaxone,1.0,IV,BD,2.0,viral encephalitis
+15.0,Female,anxiety neurosis,Cefixime,1.0,Oral,BD,3.0,anxiety neurosis
+15.0,Male,flaccid paraparesis,amoxicillin+flucloxacillin,0.5,Oral,QID,1.0,flaccid paraparesis
+15.0,Male,"glandular fever, measles, viral encephalitis, fever with confusion",ceftriaxone,2.0,IV,BD,2.0,glandular fever
+15.0,Male,"rvi,  pre art defaulter,  anti tb defaulter, anaemia",septrin,1.0,Oral,OD,4.0,anaemia
+15.0,Male,avi,Cefixime,0.2,Oral,BD,2.0,prevention of infection
+15.0,Male,"glandular fever, measles, viral encephalitis, fever with confusion",ceftriaxone,2.0,IV,BD,2.0,viral encephalitis
+15.0,Female,unknown bite,amoxicillin+flucloxacillin,0.5,Oral,TDS,5.0,unknown bite
+15.0,Male,dhf with warning signs,ceftriaxone,1.0,IV,BD,7.0,dhf
+15.0,Male,dhf with warning signs,metronidazole,0.75,IV,TDS,7.0,dhf
+15.0,Male,"glandular fever, measles, viral encephalitis, fever with confusion",ceftriaxone,1.0,IV,BD,2.0,glandular fever
+15.0,Female,"sle, chest infection",ceftriaxone,0.5,IV,OD,4.0,sle
+15.0,Male,"glandular fever, measles, viral encephalitis, fever with confusion",Cefixime,0.2,Oral,BD,1.0,glandular fever
+14.0,Male,acute flaccid lower limb weakness,Cefixime,0.2,Oral,BD,1.0,acute flaccid lower limb weakness
+14.0,Male,dhf,Cefixime,0.2,Oral,BD,5.0,dhf
+13.0,Male,"haematological,  maglinancy",cefaziclime,1.0,IV,TDS,5.0,maglinancy
+13.0,Male,"haematological,  maglinancy",amikacin,0.25,IV,BD,5.0,maglinancy
+13.0,Male,"T/T for prolong fever,  dengue fever",ceftriaxone,0.5,IV,BD,4.0,dhf
+13.0,Male,"T/T for prolong fever,  dengue fever",ceftriaxone,0.5,IV,BD,4.0,T/T for prolong fever
+13.0,Male,DHF,ceftriaxone,1.0,IV,BD,4.0,dhf
+13.0,Male,DHF,Cefixime,0.2,Oral,BD,5.0,dhf
+13.0,Male,"T/T for prolong fever,  dengue fever",Cefixime,0.2,Oral,BD,3.0,dhf
+13.0,Male,"haematological,  maglinancy",cefaziclime,1.0,IV,TDS,5.0,haematological
+13.0,Male,"T/T for prolong fever,  dengue fever",Cefixime,0.2,Oral,BD,3.0,T/T for prolong fever
+13.0,Male,"haematological,  maglinancy",amikacin,0.25,IV,BD,5.0,haematological
+1.0,Male,fever with malaena,flucloxacillin,0.125,Oral,BD,1.0,fever
+,Sex,Diagnosis,,,Route,Frequency,,Indication
